@@ -11,6 +11,7 @@ SEASON_END    = date(2026, 6, 15)
 BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=3&date={}"
 MAX_RUNS      = 39
 OUTPUT_PATH   = "ratings.json"
+CLASS_PATH    = "classifications.json"
 CSV_PATH      = "scoreboard.csv"
 ITERATIONS    = 1000
 LEARNING_RATE = 0.1
@@ -154,6 +155,16 @@ def calculate_ratings(all_games, iterations=ITERATIONS):
     return off_rating, def_rating, ovr_rating, league_avg
 
 
+def load_classifications():
+    try:
+        with open(CLASS_PATH, "r") as f:
+            data = json.load(f)
+        return {entry["school"]: {"classification": entry["classification"], "district": entry["district"]}
+                for entry in data["teams"]}
+    except FileNotFoundError:
+        print(f"  Warning: {CLASS_PATH} not found — classification/district will be omitted.")
+        return {}
+ 
 def save_json(off_rating, def_rating, ovr_rating, league_avg):
     teams      = sorted(ovr_rating, key=lambda t: ovr_rating[t], reverse=True)
     off_ranked = sorted(teams, key=lambda t: off_rating[t], reverse=True)
@@ -161,17 +172,26 @@ def save_json(off_rating, def_rating, ovr_rating, league_avg):
     off_rank   = {t: i+1 for i, t in enumerate(off_ranked)}
     def_rank   = {t: i+1 for i, t in enumerate(def_ranked)}
 
+    classifications = load_classifications()
+    unmatched = [t for t in teams if t not in classifications]
+    if unmatched:
+        print(f"  Warning: {len(unmatched)} teams not found in classifications.json:")
+        for t in unmatched:
+            print(f"    - {t}")
+
     output = {
         "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
         "league_average": round(league_avg, 2),
         "teams": [{
-            "ovr_rank":   i + 1,
-            "school":     t,
-            "ovr_rating": ovr_rating[t],
-            "off_rating": round(off_rating[t], 2),
-            "off_rank":   off_rank[t],
-            "def_rating": round(def_rating[t], 2),
-            "def_rank":   def_rank[t]
+            "ovr_rank":       i + 1,
+            "school":         t,
+            "classification": classifications.get(t, {}).get("classification", ""),
+            "district":       classifications.get(t, {}).get("district", ""),
+            "ovr_rating":     ovr_rating[t],
+            "off_rating":     round(off_rating[t], 2),
+            "off_rank":       off_rank[t],
+            "def_rating":     round(def_rating[t], 2),
+            "def_rank":       def_rank[t]
         } for i, t in enumerate(teams)]
     }
 
@@ -205,3 +225,8 @@ if __name__ == "__main__":
     print("\nSaving ratings JSON...")
     save_json(off_rating, def_rating, ovr_rating, league_avg)
     print("\n=== Done ===")
+
+
+
+
+
