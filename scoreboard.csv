@@ -624,7 +624,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-24,Hartville,2,Purdy,1
 2026-03-24,East Carter,3,Puxico,2
 2026-03-24,South Pemiscot,4,Risco,5
-2026-03-24,Hazelwood Central,22,Riverview Gardens,2
 2026-03-24,New Bloomfield,5,Russellville,6
 2026-03-24,Macon,4,Salisbury,5
 2026-03-24,Sweet Springs,9,Santa Fe with Norborne,6
@@ -1289,7 +1288,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-31,Purdy,14,Marionville,2
 2026-03-31,Carl Junction,9,Marshfield,5
 2026-03-31,South Harrison,1,Maryville,11
-2026-03-31,Riverview Gardens,1,McCluer,10
 2026-03-31,Bismarck,2,Meadow Heights,5
 2026-03-31,Hancock,0,Mehlville,15
 2026-03-31,Westminster Christian Academy,5,MICDS,5
@@ -1337,7 +1335,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-31,New Covenant Academy,2,Spokane,8
 2026-03-31,DeSoto,0,St. Clair,5
 2026-03-31,South Nodaway with Jefferson (Conception),3,St. Joseph Christian,14
-2026-03-31,Maplewood-Richmond Hts.,15,St. Mary's South Side,5
 2026-03-31,Park Hill South,10,St. Pius X (Kansas City),4
 2026-03-31,Springfield Catholic,13,Strafford,3
 2026-03-31,South Iron,15,Summersville,6
@@ -1409,7 +1406,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-02,Marshfield,2,Carl Junction,10
 2026-04-02,Glendale,14,Carthage,3
 2026-04-02,Marionville,2,Cassville,12
-2026-04-02,Guadalupe Centers Charter,1,Center,11
 2026-04-02,Ft. Zumwalt West,2,Christian Brothers College,4
 2026-04-02,Parkway West,2,Christian Brothers College,12
 2026-04-02,Malden,4,Clarkton,6
@@ -1677,7 +1673,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-06,Hancock,5,Maplewood-Richmond Hts.,12
 2026-04-06,South Harrison,6,Marceline,8
 2026-04-06,Milan,2,Maysville,14
-2026-04-06,Riverview Gardens,0,McCluer North,16
 2026-04-06,Scott City,13,Meadow Heights,1
 2026-04-06,Butler,5,Midway,12
 2026-04-06,Mexico,5,Moberly,7
@@ -1875,9 +1870,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-07,Buffalo,2,Springfield Catholic,17
 2026-04-07,Holt,16,St. Charles,11
 2026-04-07,Kirkwood,6,St. Dominic,2
-2026-04-07,Bishop DuBourg,11,St. Mary's South Side,2
 2026-04-07,Carrollton,2,St. Paul Lutheran (Concordia),12
-2026-04-07,Bismarck,20,St. Paul Lutheran (Farmington),0
 2026-04-07,St. Clair,7,St. Pius X (Festus),6
 2026-04-07,Lawson,0,St. Pius X (Kansas City),15
 2026-04-07,Saxony Lutheran,8,St. Vincent,4
@@ -1930,7 +1923,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-08,Fayette,15,Glasgow,3
 2026-04-08,Raymore-Peculiar,9,Grain Valley,8
 2026-04-08,Leeton,5,Green Ridge with La Monte,15
-2026-04-08,Riverview Gardens,13,Hazelwood East,15
 2026-04-08,Smith-Cotton,3,Helias Catholic,4
 2026-04-08,DeSoto,1,Hillsboro,11
 2026-04-08,Warsaw,0,Holden,3
@@ -2153,7 +2145,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-10,Truman,0,Blue Springs South,5
 2026-04-10,Nevada,1,Boonville,0
 2026-04-10,Green City,16,Bucklin with Macon County,5
-2026-04-10,St. Paul Lutheran (Farmington),5,Bunker with Lesterville,19
 2026-04-10,Eugene,2,Camdenton,15
 2026-04-10,Central (New Madrid County),0,Caruthersville with Hayti,11
 2026-04-10,Scott City,14,Caruthersville with Hayti,2
@@ -2187,7 +2178,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-10,Fulton,1,Hannibal,2
 2026-04-10,Richmond,2,Harrisonville,11
 2026-04-10,Van Buren,6,Hartville,9
-2026-04-10,McCluer,11,Hazelwood Central,9
 2026-04-10,Liberty (Wentzville),13,Hazelwood West,1
 2026-04-10,Pembroke Hill,4,Helias Catholic,2
 2026-04-10,Belle,11,Hermann,0
@@ -2230,7 +2220,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-10,Veritas Christian Academy,11,Principia with Whitfield,5
 2026-04-10,Battle with Columbia Independent,6,Raymore-Peculiar,16
 2026-04-10,Belton,14,Raytown South,6
-2026-04-10,STEAM Academy,14,Riverview Gardens,6
 2026-04-10,SLUH,4,Rockhurst,2
 2026-04-10,Westminster Christian Academy,1,Rockwood Summit,11
 2026-04-10,Kearney,11,Rolla,4
@@ -2497,11 +2486,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-13,Aurora,16,Forsyth,5
 2026-04-13,Lee's Summit West,9,Fort Osage,6
 2026-04-13,Exeter,3,Galena,4
-2026-04-13,McCluer,15,Gateway with Soldan International Studies,4
-2026-04-13,McCluer,14,Gateway Science Charter,4
 2026-04-13,Blue Springs South,12,Grain Valley,1
 2026-04-13,Lockwood,14,Greenfield with Golden City,4
-2026-04-13,Central (Kansas City),10,Guadalupe Centers Charter,17
 2026-04-13,Bayless,7,Hancock,0
 2026-04-13,Montgomery County,2,Hannibal,12
 2026-04-13,Jennings,4,Hazelwood Central,19
@@ -2519,7 +2505,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-13,University Academy Charter with Ewing Marion Kauffman,5,Lincoln College Prep,23
 2026-04-13,Kirkwood,8,Lindbergh,10
 2026-04-13,Butler,5,Lone Jack,6
-2026-04-13,St. Mary's South Side,0,Lutheran North,15
 2026-04-13,Walnut Grove,7,Macks Creek,0
 2026-04-13,Caruthersville with Hayti,13,Malden,0
 2026-04-13,Brentwood,26,Maplewood-Richmond Hts.,8
@@ -2644,7 +2629,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-14,Central (Cape Girardeau),3,Jackson,4
 2026-04-14,Drexel,2,Jasper,8
 2026-04-14,Grandview (Hillsboro),0,Jefferson (Festus),10
-2026-04-14,Riverview Gardens,11,Jennings,12
 2026-04-14,Neosho,1,Kickapoo,9
 2026-04-14,Valle Catholic,20,Kingston,0
 2026-04-14,Hannibal,15,Kirksville,11
@@ -2900,13 +2884,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-16,Windsor,12,Stover,0
 2026-04-16,Clever,2,Strafford,8
 2026-04-16,Sullivan,2,Union,14
-2026-04-16,Guadalupe Centers Charter,6,Van Horn,16
 2026-04-16,Butler,6,Versailles,12
 2026-04-16,Lafayette County,0,Warsaw,14
 2026-04-16,Kickapoo,5,Webb City,3
 2026-04-16,Webster Groves,6,Westminster Christian Academy,7
 2026-04-16,Fort Osage,5,Winnetonka,1
 2026-04-17,Chillicothe,9,Boonville,15
+2026-04-17,Hazelwood West,2,Farmington,10
 2026-04-17,North County,2,Festus,5
 2026-04-17,Moberly,0,Harrisonville,4
 2026-04-17,Sullivan,14,Hazelwood West,3
