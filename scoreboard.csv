@@ -2609,6 +2609,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-14,Troy Buchanan,1,Francis Howell,2
 2026-04-14,Francis Howell Central,8,Francis Howell North,3
 2026-04-14,North County,16,Fredericktown,0
+2026-04-14,Washington,9,Ft. Zumwalt East,7
 2026-04-14,North Point,11,Ft. Zumwalt South,10
 2026-04-14,Liberty (Wentzville),0,Ft. Zumwalt West,2
 2026-04-14,Moberly,7,Fulton,1
@@ -2891,6 +2892,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-16,Fort Osage,5,Winnetonka,1
 2026-04-17,Perryville,5,Arcadia Valley,4
 2026-04-17,Staley,8,Blair Oaks,7
+2026-04-17,Exeter,3,Blue Eye,9
 2026-04-17,Chillicothe,9,Boonville,15
 2026-04-17,Summit Christian Academy,14,Boonville,4
 2026-04-17,Hillsboro,5,Branson,2
@@ -2898,6 +2900,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-17,Lebanon,2,Carl Junction,9
 2026-04-17,Dexter,7,Central (Cape Girardeau),14
 2026-04-17,Maryville,0,Centralia,11
+2026-04-17,Kingston,6,Clearwater,7
 2026-04-17,Hartville,4,Conway,2
 2026-04-17,Hermann,4,Cuba,6
 2026-04-17,Hazelwood West,2,Farmington,10
@@ -2910,6 +2913,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-17,Blair Oaks,7,Francis Howell,10
 2026-04-17,Ft. Zumwalt South,0,Francis Howell Central,9
 2026-04-17,Willard,4,Ft. Zumwalt West,2
+2026-04-17,Battle with Columbia Independent,1,Grain Valley,14
 2026-04-17,Moberly,0,Harrisonville,4
 2026-04-17,Benton,1,Harrisonville,3
 2026-04-17,Sullivan,14,Hazelwood West,3
@@ -2935,8 +2939,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-17,Houston,12,Plato,0
 2026-04-17,Nixa,13,Platte County,0
 2026-04-17,Rock Bridge,7,Platte County,13
+2026-04-17,Campbell,0,Portageville,5
 2026-04-17,Jefferson (Festus),5,Principia with Whitfield,3
 2026-04-17,Father Tolton,6,Republic,2
+2026-04-17,Hancock,0,Ritenour,10
 2026-04-17,California,2,Savannah,16
 2026-04-17,Kelly,4,Scott City,5
 2026-04-17,Caruthersville with Hayti,6,Senath-Hornersville,3
@@ -2958,3 +2964,88 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-17,Chaminade College Prep,5,Westminster Christian Academy,9
 2026-04-17,Battle with Columbia Independent,5,Willard,8
 2026-04-17,Orchard Farm,8,Wright City,1
+2026-04-18,Clinton,9,Adrian,10
+2026-04-18,Green City,0,Atlanta,17
+2026-04-18,Mexico,18,Belton,3
+2026-04-18,Faith Christian Academy,8,Benton,2
+2026-04-18,Rock Bridge,7,Blair Oaks,4
+2026-04-18,Fort Osage,4,Blue Springs,14
+2026-04-18,Marshall,11,Boonville,4
+2026-04-18,Belton,5,Capital City,15
+2026-04-18,Mexico,3,Capital City,9
+2026-04-18,Lee's Summit West,6,Carthage,2
+2026-04-18,Springfield Catholic,0,Carthage,6
+2026-04-18,Wellington-Napoleon,6,Cassville,5
+2026-04-18,St. Michael the Archangel,8,Cassville,7
+2026-04-18,Park Hill South,8,Central (St. Joseph),2
+2026-04-18,Cameron,0,Centralia,12
+2026-04-18,Summit Christian Academy,8,Chillicothe,4
+2026-04-18,Parkway South,3,Christian Brothers College,1
+2026-04-18,Spokane,1,Crocker,11
+2026-04-18,Smith-Cotton,4,Eureka,3
+2026-04-18,Platte County,3,Eureka,6
+2026-04-18,Battle with Columbia Independent,0,Eureka,16
+2026-04-18,Festus,0,Farmington,5
+2026-04-18,East Carter,10,Farmington,1
+2026-04-18,Hazelwood West,3,Festus,24
+2026-04-18,Gainesville,9,Forsyth,1
+2026-04-18,Licking,10,Forsyth,1
+2026-04-18,Hazelwood West,5,Fox,12
+2026-04-18,North County,1,Fox,5
+2026-04-18,Nixa,2,Francis Howell,12
+2026-04-18,Staley,4,Francis Howell,3
+2026-04-18,Smith-Cotton,7,Ft. Zumwalt West,4
+2026-04-18,Osage,5,Fulton,15
+2026-04-18,Licking,3,Gainesville,2
+2026-04-18,Battle with Columbia Independent,1,Grain Valley,14
+2026-04-18,Ft. Zumwalt East,15,Grandview,0
+2026-04-18,St. Michael the Archangel,25,Grandview,3
+2026-04-18,Northland Christian,2,Harrisonville,9
+2026-04-18,Staley,9,Hickman,8
+2026-04-18,Smith-Cotton,8,Hickman,4
+2026-04-18,Fair Grove,11,Hillsboro,5
+2026-04-18,Odessa,16,Holden,6
+2026-04-18,Hickman,7,Jackson,6
+2026-04-18,Liberty,3,Kickapoo,1
+2026-04-18,Liberty,2,Kickapoo,3
+2026-04-18,Atlanta,6,Kirksville,3
+2026-04-18,Green City,0,Kirksville,15
+2026-04-18,El Dorado Springs,0,Knob Noster,14
+2026-04-18,St. Dominic,12,Ladue Horton Watkins,2
+2026-04-18,Hillsboro,1,Logan-Rogersville,13
+2026-04-18,Fair Grove,0,Logan-Rogersville,2
+2026-04-18,Duchesne,11,Lutheran South,3
+2026-04-18,Duchesne,7,Lutheran South,4
+2026-04-18,Truman,10,Maplewood-Richmond Hts.,0
+2026-04-18,Pleasant Hill,15,Maplewood-Richmond Hts.,0
+2026-04-18,Vianney,5,Marshfield,3
+2026-04-18,Plattsburg,16,Meadville with Linn County,1
+2026-04-18,California,0,Mid-Buchanan,19
+2026-04-18,Northland Christian,3,Moberly,1
+2026-04-18,Northwest (Hughesville),1,North Callaway,2
+2026-04-18,Barstow,4,North Callaway,6
+2026-04-18,Sullivan,5,North County,9
+2026-04-18,Barstow,9,Northwest (Hughesville),8
+2026-04-18,Sacred Heart,0,Oak Grove,16
+2026-04-18,Plattsburg,17,Osceola,0
+2026-04-18,Faith Christian Academy,5,Owensville,1
+2026-04-18,South Callaway,6,Palmyra,7
+2026-04-18,Silex,12,Palmyra,10
+2026-04-18,Liberty North,0,Park Hill,3
+2026-04-18,Wellington-Napoleon,1,Pleasant Hill,14
+2026-04-18,Vianney,11,Republic,3
+2026-04-18,Blair Oaks,4,Rock Bridge,7
+2026-04-18,Crocker,0,Sarcoxie,1
+2026-04-18,Spokane,3,Sarcoxie,6
+2026-04-18,Southern Boone,14,Savannah,0
+2026-04-18,Silex,11,South Callaway,5
+2026-04-18,Wheatland,4,South Holt,3
+2026-04-18,St. Joseph Christian,6,South Holt,12
+2026-04-18,Maryville,3,Southern Boone,12
+2026-04-18,South Holt,12,St. Joseph Christian,6
+2026-04-18,East Carter,1,Sullivan,3
+2026-04-18,Ft. Zumwalt East,8,Truman,1
+2026-04-18,MICDS,12,Veritas Christian Academy,6
+2026-04-18,SLUH,15,Webster Groves,0
+2026-04-18,St. Joseph Christian,4,Wheatland,5
+2026-04-18,Staley,9,Willard,2
