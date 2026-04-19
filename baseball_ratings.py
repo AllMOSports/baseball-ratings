@@ -12,6 +12,7 @@ BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=3&date={}
 MAX_RUNS      = 39
 OUTPUT_PATH   = "ratings.json"
 CLASS_PATH    = "classifications.json"
+CLASS_OUTPUTS = {i: f"ratings_class{i}.json" for i in range(1, 7)}
 CSV_PATH      = "scoreboard.csv"
 ITERATIONS    = 1000
 LEARNING_RATE = 0.1
@@ -214,6 +215,47 @@ def save_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
               f"| DEF: {entry['def_rating']:+.2f}")
  
  
+def save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
+    for class_num in range(1, 7):
+        class_teams = [t for t in ovr_rating if classifications.get(t, {}).get("classification") == class_num]
+ 
+        if not class_teams:
+            print(f"  No teams found for Class {class_num} — skipping.")
+            continue
+ 
+        sorted_teams  = sorted(class_teams, key=lambda t: ovr_rating[t], reverse=True)
+        off_ranked    = sorted(class_teams, key=lambda t: off_rating[t], reverse=True)
+        def_ranked    = sorted(class_teams, key=lambda t: def_rating[t], reverse=True)
+        off_rank      = {t: i+1 for i, t in enumerate(off_ranked)}
+        def_rank      = {t: i+1 for i, t in enumerate(def_ranked)}
+ 
+        output = {
+            "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
+            "league_average": round(league_avg, 2),
+            "classification": class_num,
+            "teams": [{
+                "ovr_rank":       i + 1,
+                "school":         t,
+                "classification": class_num,
+                "district":       classifications.get(t, {}).get("district", ""),
+                "ovr_rating":     ovr_rating[t],
+                "off_rating":     round(off_rating[t], 2),
+                "off_rank":       off_rank[t],
+                "def_rating":     round(def_rating[t], 2),
+                "def_rank":       def_rank[t]
+            } for i, t in enumerate(sorted_teams)]
+        }
+ 
+        path = CLASS_OUTPUTS[class_num]
+        with open(path, "w") as f:
+            json.dump(output, f, indent=2)
+ 
+        print(f"  Class {class_num}: {len(sorted_teams)} teams saved to {path}")
+        if output["teams"]:
+            top = output["teams"][0]
+            print(f"    Top team: {top['school']} | OVR: {top['ovr_rating']:+.2f}")
+ 
+ 
 if __name__ == "__main__":
     print("=== MSHSAA Baseball Ratings ===")
  
@@ -240,4 +282,8 @@ if __name__ == "__main__":
  
     print("\nSaving ratings JSON...")
     save_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
+ 
+    print("\nSaving class-specific ratings JSON...")
+    save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
+ 
     print("\n=== Done ===")
