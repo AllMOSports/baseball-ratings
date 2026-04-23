@@ -5,6 +5,7 @@ import json
 import csv
 from datetime import datetime, date, timedelta
 import time
+import pytz
  
 SEASON_START  = date(2026, 3, 1)
 SEASON_END    = date(2026, 6, 15)
@@ -187,7 +188,7 @@ def save_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
             print(f"    - {t}")
  
     output = {
-        "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
+        "last_updated": datetime.now(pytz.timezone("America/Chicago")).strftime("%B %d, %Y at %I:%M %p"),
         "league_average": round(league_avg, 2),
         "teams": [{
             "ovr_rank":       i + 1,
