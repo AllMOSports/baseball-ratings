@@ -231,7 +231,7 @@ def save_class_json(off_rating, def_rating, ovr_rating, league_avg, classificati
         def_rank      = {t: i+1 for i, t in enumerate(def_ranked)}
  
         output = {
-            "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
+            "last_updated": datetime.now(pytz.timezone("America/Chicago")).strftime("%B %d, %Y at %I:%M %p"),
             "league_average": round(league_avg, 2),
             "classification": class_num,
             "teams": [{
