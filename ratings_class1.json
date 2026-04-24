@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 24, 2026 at 07:05 PM",
+  "last_updated": "April 24, 2026 at 02:33 PM",
   "league_average": 6.3,
   "classification": 1,
   "teams": [
@@ -269,17 +269,6 @@
     },
     {
       "ovr_rank": 25,
-      "school": "Leopold",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -4.36,
-      "off_rating": -2.69,
-      "off_rank": 35,
-      "def_rating": -1.67,
-      "def_rank": 21
-    },
-    {
-      "ovr_rank": 26,
       "school": "South Iron",
       "classification": 1,
       "district": 3,
@@ -288,6 +277,17 @@
       "off_rank": 15,
       "def_rating": -3.42,
       "def_rank": 44
+    },
+    {
+      "ovr_rank": 26,
+      "school": "Leopold",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -4.36,
+      "off_rating": -2.69,
+      "off_rank": 35,
+      "def_rating": -1.67,
+      "def_rank": 21
     },
     {
       "ovr_rank": 27,
@@ -478,17 +478,6 @@
     },
     {
       "ovr_rank": 44,
-      "school": "Jamestown",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -6.94,
-      "off_rating": -4.01,
-      "off_rank": 47,
-      "def_rating": -2.93,
-      "def_rank": 38
-    },
-    {
-      "ovr_rank": 45,
       "school": "Lakeland",
       "classification": 1,
       "district": 12,
@@ -497,6 +486,17 @@
       "off_rank": 49,
       "def_rating": -2.81,
       "def_rank": 34
+    },
+    {
+      "ovr_rank": 45,
+      "school": "Jamestown",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -6.94,
+      "off_rating": -4.01,
+      "off_rank": 47,
+      "def_rating": -2.93,
+      "def_rank": 38
     },
     {
       "ovr_rank": 46,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 24, 2026 at 07:05 PM",
+  "last_updated": "April 24, 2026 at 02:33 PM",
   "league_average": 6.3,
   "classification": 2,
   "teams": [
@@ -137,17 +137,6 @@
     },
     {
       "ovr_rank": 13,
-      "school": "Neelyville",
-      "classification": 2,
-      "district": 1,
-      "ovr_rating": 2.51,
-      "off_rating": 1.54,
-      "off_rank": 8,
-      "def_rating": 0.97,
-      "def_rank": 16
-    },
-    {
-      "ovr_rank": 14,
       "school": "Veritas Christian Academy",
       "classification": 2,
       "district": 4,
@@ -156,6 +145,17 @@
       "off_rank": 19,
       "def_rating": 1.99,
       "def_rank": 11
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Neelyville",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": 2.51,
+      "off_rating": 1.54,
+      "off_rank": 8,
+      "def_rating": 0.97,
+      "def_rank": 16
     },
     {
       "ovr_rank": 15,
@@ -247,17 +247,6 @@
     },
     {
       "ovr_rank": 23,
-      "school": "Northwestern (Mendon) with Brunswick, Keytesville",
-      "classification": 2,
-      "district": 7,
-      "ovr_rating": 0.05,
-      "off_rating": 2.27,
-      "off_rank": 6,
-      "def_rating": -2.22,
-      "def_rank": 56
-    },
-    {
-      "ovr_rank": 24,
       "school": "Windsor",
       "classification": 2,
       "district": 13,
@@ -266,6 +255,17 @@
       "off_rank": 17,
       "def_rating": -0.62,
       "def_rank": 38
+    },
+    {
+      "ovr_rank": 24,
+      "school": "Northwestern (Mendon) with Brunswick, Keytesville",
+      "classification": 2,
+      "district": 7,
+      "ovr_rating": 0.05,
+      "off_rating": 2.27,
+      "off_rank": 6,
+      "def_rating": -2.22,
+      "def_rank": 56
     },
     {
       "ovr_rank": 25,
@@ -313,17 +313,6 @@
     },
     {
       "ovr_rank": 29,
-      "school": "New Bloomfield",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -0.33,
-      "off_rating": 0.14,
-      "off_rank": 24,
-      "def_rating": -0.47,
-      "def_rank": 33
-    },
-    {
-      "ovr_rank": 30,
       "school": "Marceline",
       "classification": 2,
       "district": 7,
@@ -332,6 +321,17 @@
       "off_rank": 23,
       "def_rating": -0.61,
       "def_rank": 37
+    },
+    {
+      "ovr_rank": 30,
+      "school": "New Bloomfield",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -0.33,
+      "off_rating": 0.14,
+      "off_rank": 24,
+      "def_rating": -0.47,
+      "def_rank": 33
     },
     {
       "ovr_rank": 31,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 24, 2026 at 07:05 PM",
+  "last_updated": "April 24, 2026 at 02:33 PM",
   "league_average": 6.3,
   "classification": 4,
   "teams": [
@@ -170,17 +170,6 @@
     },
     {
       "ovr_rank": 16,
-      "school": "Chillicothe",
-      "classification": 4,
-      "district": 16,
-      "ovr_rating": 5.87,
-      "off_rating": 3.47,
-      "off_rank": 10,
-      "def_rating": 2.4,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 17,
       "school": "Pleasant Hill",
       "classification": 4,
       "district": 13,
@@ -189,6 +178,17 @@
       "off_rank": 12,
       "def_rating": 2.9,
       "def_rank": 20
+    },
+    {
+      "ovr_rank": 17,
+      "school": "Chillicothe",
+      "classification": 4,
+      "district": 16,
+      "ovr_rating": 5.87,
+      "off_rating": 3.47,
+      "off_rank": 10,
+      "def_rating": 2.4,
+      "def_rank": 27
     },
     {
       "ovr_rank": 18,
@@ -687,17 +687,6 @@
     },
     {
       "ovr_rank": 63,
-      "school": "Perryville",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": -2.17,
-      "off_rating": -2.7,
-      "off_rank": 68,
-      "def_rating": 0.53,
-      "def_rank": 48
-    },
-    {
-      "ovr_rank": 64,
       "school": "Osage",
       "classification": 4,
       "district": 9,
@@ -706,6 +695,17 @@
       "off_rank": 58,
       "def_rating": -1.18,
       "def_rank": 60
+    },
+    {
+      "ovr_rank": 64,
+      "school": "Perryville",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": -2.17,
+      "off_rating": -2.7,
+      "off_rank": 68,
+      "def_rating": 0.53,
+      "def_rank": 48
     },
     {
       "ovr_rank": 65,
