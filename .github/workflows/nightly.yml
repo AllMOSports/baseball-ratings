@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 numpy
+        run: pip install requests beautifulsoup4 numpy pytz
 
       - name: Run ratings script
         run: python baseball_ratings.py
