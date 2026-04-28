@@ -15,6 +15,8 @@ OUTPUT_PATH   = "ratings.json"
 CLASS_PATH    = "classifications.json"
 CLASS_OUTPUTS = {i: f"ratings_class{i}.json" for i in range(1, 7)}
 CSV_PATH      = "scoreboard.csv"
+RATINGS_CSV_PATH       = "ratings_all.csv"
+CLASS_RATINGS_CSV_PATH = {i: f"ratings_class{i}.csv" for i in range(1, 7)}
 ITERATIONS    = 1000
 LEARNING_RATE = 0.1
  
@@ -216,6 +218,49 @@ def save_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
               f"| DEF: {entry['def_rating']:+.2f}")
  
  
+def save_ratings_csv(off_rating, def_rating, ovr_rating):
+    """Save all-teams ratings CSV sorted by OVR descending, ready to paste into presentation."""
+    teams = sorted(ovr_rating, key=lambda t: ovr_rating[t], reverse=True)
+    with open(RATINGS_CSV_PATH, "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Team", "OVR Rating", "OFF Rating", "DEF Rating"])
+        for t in teams:
+            writer.writerow([
+                t,
+                f"{ovr_rating[t]:.2f}",
+                f"{round(off_rating[t], 2):.2f}",
+                f"{round(def_rating[t], 2):.2f}"
+            ])
+    print(f"Saved all-teams ratings to {RATINGS_CSV_PATH} ({len(teams)} teams)")
+ 
+ 
+def save_class_ratings_csv(off_rating, def_rating, ovr_rating, classifications):
+    """Save per-classification ratings CSVs sorted by OVR descending, ready to paste into presentation."""
+    for class_num in range(1, 7):
+        class_teams = [t for t in ovr_rating
+                       if classifications.get(t, {}).get("classification") == class_num]
+ 
+        if not class_teams:
+            print(f"  No teams found for Class {class_num} — skipping CSV.")
+            continue
+ 
+        sorted_teams = sorted(class_teams, key=lambda t: ovr_rating[t], reverse=True)
+        path = CLASS_RATINGS_CSV_PATH[class_num]
+ 
+        with open(path, "w", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow(["Team", "OVR Rating", "OFF Rating", "DEF Rating"])
+            for t in sorted_teams:
+                writer.writerow([
+                    t,
+                    f"{ovr_rating[t]:.2f}",
+                    f"{round(off_rating[t], 2):.2f}",
+                    f"{round(def_rating[t], 2):.2f}"
+                ])
+ 
+        print(f"  Class {class_num}: {len(sorted_teams)} teams saved to {path}")
+ 
+ 
 def save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
     for class_num in range(1, 7):
         class_teams = [t for t in ovr_rating if classifications.get(t, {}).get("classification") == class_num]
@@ -284,7 +329,13 @@ if __name__ == "__main__":
     print("\nSaving ratings JSON...")
     save_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
  
+    print("\nSaving all-teams ratings CSV...")
+    save_ratings_csv(off_rating, def_rating, ovr_rating)
+ 
     print("\nSaving class-specific ratings JSON...")
     save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
+ 
+    print("\nSaving class-specific ratings CSVs...")
+    save_class_ratings_csv(off_rating, def_rating, ovr_rating, classifications)
  
     print("\n=== Done ===")
