@@ -1,82 +1,82 @@
 Team,OVR Rating,OFF Rating,DEF Rating
-Duchesne,9.42,4.04,5.39
-Fair Grove,8.70,4.80,3.90
-Centralia,8.37,4.67,3.70
-Blair Oaks,8.20,4.00,4.20
-Scott City,7.19,4.32,2.87
-Licking,5.58,2.73,2.85
-Fatima,4.59,1.34,3.25
-Mid-Buchanan,4.39,1.52,2.87
-Saxony Lutheran,3.98,1.76,2.23
-Ava,3.58,1.72,1.86
-Montgomery County,3.56,1.85,1.71
-Palmyra,3.55,2.22,1.34
-Macon,2.79,0.52,2.27
-West Platte,2.69,-0.29,2.98
-South Callaway,2.32,0.54,1.78
-Lamar,2.16,1.66,0.50
-Clark County,2.04,0.80,1.23
-Carrollton,2.03,0.25,1.78
-Holden,2.01,1.62,0.39
-St. Pius X (Festus),1.95,1.41,0.54
-Valley Park,1.82,-0.63,2.44
-Ash Grove,1.72,0.53,1.19
-Forsyth,1.25,0.17,1.07
-North Callaway,1.16,-0.07,1.23
-Jefferson (Festus),1.16,-0.96,2.13
-West County,1.12,0.45,0.67
-Warsaw,1.10,0.64,0.45
-Priory,1.07,1.52,-0.45
-Lone Jack,0.96,1.07,-0.11
-Kelly,0.95,-0.72,1.67
-Belle,0.65,-0.05,0.71
-Houston,0.58,-0.66,1.23
-Lutheran North,0.40,1.50,-1.09
-El Dorado Springs,0.36,0.13,0.24
-Lawson,-0.02,0.62,-0.63
-Diamond,-0.19,0.25,-0.44
-Stockton,-0.43,-0.42,-0.01
-Dixon,-0.69,0.75,-1.44
-Bowling Green,-0.75,-2.54,1.79
-Adrian,-1.44,0.07,-1.51
-Conway,-1.46,-0.77,-0.69
-Cole Camp,-1.63,-1.37,-0.26
-Thayer,-2.60,-0.87,-1.73
-Cuba,-3.30,-2.79,-0.51
-Lathrop,-3.53,-1.82,-1.71
-Trenton,-3.55,-0.49,-3.06
-Arcadia Valley,-3.89,-1.82,-2.07
-Cameron,-3.97,-2.48,-1.49
-Liberty (Mountain View),-4.27,-1.45,-2.82
-Sparta,-4.56,-2.14,-2.43
-Versailles,-4.66,-1.96,-2.70
-Caruthersville with Hayti,-4.81,-2.26,-2.55
-Sarcoxie,-4.87,-2.63,-2.24
-East Buchanan,-4.88,-1.41,-3.46
-Monroe City,-5.04,-1.47,-3.57
-Elsberry,-5.04,-3.63,-1.40
-Mark Twain,-5.06,-0.99,-4.06
-East Prairie,-5.31,-2.45,-2.86
-Seymour,-5.81,-3.45,-2.36
-Hermann,-6.28,-3.56,-2.73
-Pierce City,-6.28,-1.94,-4.34
-Twin Rivers,-6.49,-4.16,-2.34
-Lexington,-6.77,-3.03,-3.74
-South Harrison,-7.27,-4.27,-3.01
-Willow Springs,-7.48,-5.02,-2.46
-Southwest (Washburn),-7.60,-4.41,-3.19
-Brookfield,-8.36,-4.11,-4.26
-Lafayette County,-9.18,-3.11,-6.07
-Central (New Madrid County),-9.44,-5.30,-4.14
-Woodland,-9.46,-4.73,-4.73
-Cabool,-10.52,-4.19,-6.33
-Kingston,-10.59,-4.69,-5.90
-Steelville,-10.63,-5.26,-5.36
-Butler,-10.75,-3.43,-7.32
-Hancock,-11.45,-5.45,-5.99
-Highland,-11.80,-3.18,-8.62
-Grandview (Hillsboro),-11.99,-4.49,-7.50
-Missouri Military Academy,-12.11,-6.24,-5.87
-Clearwater,-12.33,-5.65,-6.68
-Bourbon,-12.63,-8.05,-4.58
-Stover,-16.02,-5.09,-10.94
+Duchesne,9.53,4.12,5.41
+Blair Oaks,8.25,4.05,4.20
+Fair Grove,8.24,4.46,3.78
+Centralia,8.15,4.73,3.42
+Scott City,7.38,4.55,2.83
+Licking,6.11,3.13,2.98
+Fatima,4.77,1.56,3.21
+Mid-Buchanan,4.43,1.59,2.84
+Saxony Lutheran,3.96,1.77,2.20
+Montgomery County,3.52,1.79,1.73
+Ava,3.45,1.48,1.97
+Palmyra,3.15,2.10,1.05
+Macon,2.77,0.51,2.26
+West Platte,2.46,-0.53,2.99
+South Callaway,2.39,0.51,1.88
+Lamar,2.32,1.80,0.52
+Valley Park,2.24,-0.39,2.63
+Holden,2.15,1.59,0.56
+St. Pius X (Festus),2.11,1.22,0.89
+Carrollton,2.06,0.21,1.85
+Priory,1.87,1.72,0.15
+Ash Grove,1.81,0.54,1.27
+Clark County,1.77,0.64,1.13
+Forsyth,1.45,0.24,1.21
+Jefferson (Festus),1.33,-0.75,2.07
+West County,1.21,0.47,0.74
+North Callaway,1.17,-0.11,1.28
+Warsaw,1.13,0.67,0.46
+Kelly,1.00,-0.78,1.77
+Lone Jack,0.99,1.10,-0.11
+Belle,0.89,0.06,0.84
+Lutheran North,0.82,1.37,-0.55
+Houston,0.65,-0.62,1.27
+El Dorado Springs,0.40,0.19,0.21
+Lawson,-0.09,0.49,-0.58
+Stockton,-0.15,-0.07,-0.09
+Diamond,-0.17,0.09,-0.27
+Dixon,-0.85,0.60,-1.45
+Bowling Green,-1.15,-2.58,1.43
+Cole Camp,-1.38,-1.04,-0.34
+Adrian,-1.39,0.07,-1.46
+Conway,-1.49,-0.79,-0.71
+Thayer,-2.32,-0.73,-1.59
+Lathrop,-3.39,-1.86,-1.53
+Cuba,-3.43,-2.92,-0.51
+Trenton,-3.54,-0.46,-3.08
+Arcadia Valley,-3.65,-1.55,-2.10
+Cameron,-3.99,-2.50,-1.49
+Liberty (Mountain View),-4.19,-1.44,-2.75
+Sarcoxie,-4.46,-2.51,-1.95
+Versailles,-4.58,-1.92,-2.66
+Sparta,-4.64,-2.22,-2.42
+Mark Twain,-4.74,-0.98,-3.76
+Caruthersville with Hayti,-4.74,-2.27,-2.46
+East Buchanan,-4.82,-1.39,-3.43
+East Prairie,-5.04,-2.58,-2.46
+Elsberry,-5.25,-3.84,-1.41
+Monroe City,-5.66,-1.86,-3.80
+Seymour,-6.04,-3.95,-2.09
+Twin Rivers,-6.05,-4.05,-2.01
+South Harrison,-6.08,-3.34,-2.74
+Pierce City,-6.33,-2.04,-4.29
+Lexington,-6.78,-3.02,-3.76
+Hermann,-6.84,-3.89,-2.95
+Willow Springs,-7.37,-4.95,-2.42
+Southwest (Washburn),-7.70,-4.34,-3.35
+Brookfield,-8.28,-4.23,-4.06
+Lafayette County,-9.21,-3.12,-6.10
+Woodland,-9.39,-4.58,-4.81
+Central (New Madrid County),-9.69,-5.33,-4.36
+Cabool,-10.63,-4.55,-6.08
+Butler,-10.67,-3.40,-7.28
+Kingston,-11.00,-4.92,-6.08
+Hancock,-11.04,-5.19,-5.85
+Steelville,-11.14,-5.68,-5.46
+Highland,-11.91,-3.71,-8.19
+Missouri Military Academy,-12.34,-6.47,-5.87
+Clearwater,-12.54,-5.76,-6.78
+Bourbon,-12.62,-7.99,-4.62
+Grandview (Hillsboro),-13.08,-4.35,-8.73
+Stover,-15.85,-5.00,-10.85
