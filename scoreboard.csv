@@ -3993,6 +3993,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Putnam County,12,Milan,0
 2026-04-30,Mt. Vernon,3,Monett,1
 2026-04-30,Louisiana,1,Montgomery County,13
+2026-04-30,Pacific,12,Mountain Grove,2
 2026-04-30,Cassville,0,Nevada,10
 2026-04-30,Crane,0,New Covenant Academy,15
 2026-04-30,Sullivan,15,New Haven,1
@@ -4203,6 +4204,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,DeSoto,10,Windsor (Imperial),2
 2026-05-01,Veritas Christian Academy,6,Winfield,4
 2026-05-02,Sherwood,7,Adrian,6
+2026-05-02,Versailles,1,Adrian,11
 2026-05-02,Cooter,3,Advance,8
 2026-05-02,Scott City,17,Alton,0
 2026-05-02,Webb City,8,Aurora,1
@@ -4220,8 +4222,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Fatima,15,East Newton,3
 2026-05-02,Sherwood,1,El Dorado Springs,11
 2026-05-02,Versailles,0,El Dorado Springs,2
+2026-05-02,Vianney,4,Eureka,13
 2026-05-02,East Newton,4,Fair Grove,10
 2026-05-02,Fatima,1,Fair Grove,7
+2026-05-02,Cardinal Ritter,0,Father Tolton,17
+2026-05-02,Cardinal Ritter,0,Father Tolton,16
 2026-05-02,Slater,0,Fayette,5
 2026-05-02,Jamestown,5,Fayette,9
 2026-05-02,Kickapoo,5,Francis Howell,4
@@ -4249,8 +4254,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,St. Charles,1,Montgomery County,3
 2026-05-02,Wright City,2,Montgomery County,8
 2026-05-02,St. Elizabeth,5,New Bloomfield,1
+2026-05-02,Weaubleau,1,New Covenant Academy,21
 2026-05-02,Glasgow,0,New Franklin,4
 2026-05-02,Hickman,18,Oak Park,1
+2026-05-02,Pembroke Hill,16,Osage,6
 2026-05-02,Dixon,6,Palmyra,10
 2026-05-02,Bolivar,9,Pleasant Hill,10
 2026-05-02,Bolivar,8,Pleasant Hill,6
@@ -4259,6 +4266,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Carthage,1,Raymore-Peculiar,4
 2026-05-02,New Covenant Academy,4,Reeds Spring,7
 2026-05-02,Weaubleau,0,Reeds Spring,15
+2026-05-02,Glendale,7,Rock Bridge,1
 2026-05-02,Staley,4,Rock Bridge,2
 2026-05-02,Timberland,1,Rolla,7
 2026-05-02,Pembroke Hill,3,Russellville,15
@@ -4267,10 +4275,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,South Pemiscot,6,Senath-Hornersville,10
 2026-05-02,Buffalo,3,Seymour,13
 2026-05-02,Forsyth,7,Seymour,3
-2026-05-02,Kennett,0,Sikeston,10
 2026-05-02,Palmyra,10,South Callaway,8
 2026-05-02,Dixon,0,South Callaway,10
 2026-05-02,Tipton,2,Southern Boone,10
+2026-05-02,Pierce City,17,Southwest (Washburn),0
 2026-05-02,Wright City,6,St. Charles,7
 2026-05-02,Conway,8,Strafford,14
 2026-05-02,Northland Christian,13,Strafford,0
@@ -4279,3 +4287,5 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,St. Francis Borgia,12,Warrenton,0
 2026-05-02,Mountain Grove,1,Waynesville,16
 2026-05-02,Christian Brothers College,6,Westminster Christian Academy,1
+2026-05-02,Christian Brothers College,15,Westminster Christian Academy,4
+2026-05-02,Branson,0,Willard,5
