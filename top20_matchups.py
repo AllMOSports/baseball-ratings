@@ -4,7 +4,7 @@ top20_matchups.py
 Scrapes today's MSHSAA baseball scoreboard and identifies games where
 BOTH teams are ranked in the Top 20 of their respective classification.
  
-Reads per-class ratings from:  ratings_class1.json … ratings_class6.json
+Reads per-class ratings from:  ratings_class1.json … ratings_class4.json
 (produced by the main baseball_ratings.py script)
  
 Outputs:
@@ -153,7 +153,7 @@ def main():
     # 2. Scrape today's games
     print(f"\nScraping today's scoreboard ({today})...")
     games = scrape_date(today)
-    print(f"Found {len(games)} MSHSAA baseball game(s) today.\n")
+    print(f"Found {len(games)} MSHSAA Baseball game(s) today.\n")
  
     # 3. Filter to Top-N vs Top-N matchups
     top_matchups = []
@@ -166,12 +166,10 @@ def main():
         # Both teams must be ranked, in the same class, and in the top N
         if r1 is None or r2 is None:
             continue
-        if c1 != c2:
-            continue          # cross-class games are unusual but skip them
         if r1 > TOP_N or r2 > TOP_N:
             continue
  
-        top_matchups.append({**g, "rank1": r1, "rank2": r2, "class": c1})
+        top_matchups.append({**g, "rank1": r1, "rank2": r2, "class1": c1, "class2": c2})
  
     # 4. Build output
     lines = []
@@ -196,8 +194,8 @@ def main():
                 s2 = str(m["score2"]) if m["score2"] is not None else "—"
                 status = "✅ Final" if m["is_final"] else "🕐 Scheduled"
                 lines.append(
-                    f"| {i} | {m['team1']} | #{m['rank1']} | {s1} | {s2} "
-                    f"| #{m['rank2']} | {m['team2']} | {status} |"
+                    f"| {i} | {m['team1']} (C{m['class1']}) | #{m['rank1']} | {s1} | {s2} "
+                    f"| #{m['rank2']} | {m['team2']} (C{m['class2']}) | {status} |"
                 )
             lines.append("")
  
