@@ -3846,6 +3846,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-29,Priory,8,MICDS,9
 2026-04-29,Hannibal,6,Moberly,4
 2026-04-29,Southern Boone,6,New Bloomfield,3
+2026-04-29,Harrisburg,6,New Bloomfield,5
 2026-04-29,Charleston,0,Notre Dame (Cape Girardeau),13
 2026-04-29,Park Hill,6,Oak Park,2
 2026-04-29,Kelly,9,Oak Ridge,2
@@ -3884,6 +3885,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-29,Pembroke Hill,5,St. Michael the Archangel,3
 2026-04-29,Fredericktown,2,Ste. Genevieve,14
 2026-04-29,West County,4,Ste. Genevieve,0
+2026-04-29,Licking,3,Strafford,2
 2026-04-29,St. Paul Lutheran (Concordia),18,Sweet Springs,9
 2026-04-29,Bakersfield,7,Thayer,8
 2026-04-29,Ft. Zumwalt South,1,Timberland,3
@@ -4021,6 +4023,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Niangua,0,Richland,15
 2026-04-30,Naylor,9,Risco,0
 2026-04-30,Pattonville,8,Ritenour,0
+2026-04-30,Lindbergh,10,Rockwood Summit,10
 2026-04-30,Center,19,Ruskin,1
 2026-04-30,Warsaw,4,Sherwood,6
 2026-04-30,North Callaway,5,Silex,2
@@ -4196,7 +4199,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,St. Francis Borgia,5,Washington,3
 2026-05-01,Licking,23,Waynesville,4
 2026-05-01,Mehlville,5,Webster Groves,2
-2026-05-01,Higbee,9,Wellsville-Middletown,10
+2026-05-01,Higbee,10,Wellsville-Middletown,9
 2026-05-01,Ava,0,West Plains,5
 2026-05-01,South Shelby,0,Westran,15
 2026-05-01,New Heights Christian,19,Wheaton,13
@@ -4275,6 +4278,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,South Pemiscot,6,Senath-Hornersville,10
 2026-05-02,Buffalo,3,Seymour,13
 2026-05-02,Forsyth,7,Seymour,3
+2026-05-02,Kennett,0,Sikeston,10
 2026-05-02,Palmyra,10,South Callaway,8
 2026-05-02,Dixon,0,South Callaway,10
 2026-05-02,Tipton,2,Southern Boone,10
@@ -4289,3 +4293,140 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Christian Brothers College,6,Westminster Christian Academy,1
 2026-05-02,Christian Brothers College,15,Westminster Christian Academy,4
 2026-05-02,Branson,0,Willard,5
+2026-05-04,Forsyth,9,Ava,1
+2026-05-04,Rolla,11,Battle with Columbia Independent,8
+2026-05-04,Brentwood,3,Bayless,6
+2026-05-04,Gideon,1,Bell City,11
+2026-05-04,Fort Osage,10,Belton,5
+2026-05-04,Central (Park Hills),12,Bismarck,2
+2026-05-04,Strafford,10,Bolivar,3
+2026-05-04,Grandview (Hillsboro),0,Bourbon,15
+2026-05-04,Lebanon,7,Branson,2
+2026-05-04,South Iron,19,Bunker with Lesterville,0
+2026-05-04,Fayette,4,Calvary Lutheran,1
+2026-05-04,Clever,5,Cassville,6
+2026-05-04,Notre Dame (Cape Girardeau),1,Central (Cape Girardeau),5
+2026-05-04,Monett,17,Central (Springfield),0
+2026-05-04,North Kansas City,1,Central (St. Joseph),12
+2026-05-04,Principia with Whitfield,1,Christian Brothers College,16
+2026-05-04,Monroe City,0,Clark County,10
+2026-05-04,Windsor,7,Clinton,14
+2026-05-04,Warsaw,7,Cole Camp,3
+2026-05-04,Carrollton,21,Concordia,8
+2026-05-04,Skyline,1,Conway,3
+2026-05-04,Spokane,16,Crane,0
+2026-05-04,Santa Fe with Norborne,9,Crest Ridge,13
+2026-05-04,Richland,0,Crocker,8
+2026-05-04,Humansville with Fair Play,1,Dadeville,20
+2026-05-04,Kennett,5,Dexter,4
+2026-05-04,Midway,15,Drexel,0
+2026-05-04,Westminster Christian Academy,6,Duchesne,10
+2026-05-04,East Carter,11,East Prairie,0
+2026-05-04,Sullivan,12,Eldon,3
+2026-05-04,Clearwater,6,Ellington,7
+2026-05-04,Parkway Central,1,Eureka,11
+2026-05-04,Licking,0,Fatima,1
+2026-05-04,De Smet Jesuit,4,Francis Howell Central,6
+2026-05-04,West County,15,Fredericktown,0
+2026-05-04,Chaminade College Prep,20,Ft. Zumwalt East,4
+2026-05-04,California,5,Fulton,11
+2026-05-04,Brookfield,5,Glasgow,10
+2026-05-04,Smithville,22,Grandview,3
+2026-05-04,Sherwood,19,Green Ridge with La Monte,20
+2026-05-04,Saxony Lutheran,4,Greenville,1
+2026-05-04,Bowling Green,4,Hannibal,3
+2026-05-04,Houston,11,Hartville,12
+2026-05-04,Pattonville,15,Hazelwood West,2
+2026-05-04,New Haven,0,Hermann,10
+2026-05-04,Weaubleau,0,Hermitage,14
+2026-05-04,Webster Groves,3,Hillsboro,13
+2026-05-04,Cooter,2,Holcomb,1
+2026-05-04,Warrensburg,10,Holden,3
+2026-05-04,Wheaton,1,Hurley,5
+2026-05-04,Versailles,0,Iberia,6
+2026-05-04,Poplar Bluff,3,Jackson,7
+2026-05-04,Lamar,16,Jasper,1
+2026-05-04,Perryville,2,Jefferson (Festus),11
+2026-05-04,Sikeston,5,Kelly,3
+2026-05-04,South Harrison,7,King City with Union Star,17
+2026-05-04,Ste. Genevieve,10,Kingston,0
+2026-05-04,Kingsville,3,Lakeland,4
+2026-05-04,Lexington,3,Lathrop,8
+2026-05-04,Cameron,7,Lawson,9
+2026-05-04,Blue Springs,3,Lee's Summit North,7
+2026-05-04,Staley,7,Lee's Summit West,12
+2026-05-04,Appleton City,17,Liberal,2
+2026-05-04,Parkway North,0,Liberty (Wentzville),15
+2026-05-04,Lee's Summit,5,Liberty North,15
+2026-05-04,Northwest (Hughesville),6,Lincoln,9
+2026-05-04,Mid-Buchanan,4,Lincoln College Prep,3
+2026-05-04,Parkway South,0,Lindbergh,1
+2026-05-04,Priory,7,Lutheran South,3
+2026-05-04,Union,11,Lutheran St. Charles,0
+2026-05-04,Mountain Grove,4,Mansfield,8
+2026-05-04,Chadwick,2,Marion C. Early,18
+2026-05-04,Louisiana,17,Marion County,5
+2026-05-04,New Heights Christian,8,Marionville,6
+2026-05-04,Neosho,7,McDonald County,2
+2026-05-04,Leopold,1,Meadow Heights,5
+2026-05-04,Hallsville,6,Mexico,7
+2026-05-04,Trenton,10,Milan,0
+2026-05-04,Southwest (Washburn),0,Miller,10
+2026-05-04,Blair Oaks,1,Moberly,3
+2026-05-04,Cuba,9,Montgomery County,13
+2026-05-04,Westran,7,New Franklin,6
+2026-05-04,Centralia,13,North Callaway,3
+2026-05-04,North Andrew,1,North Harrison,11
+2026-05-04,Rock Port,8,North Platte,7
+2026-05-04,Francis Howell North,4,North Point,11
+2026-05-04,Community,0,North Shelby,1
+2026-05-04,Rockwood Summit,10,Northwest (Cedar Hill),0
+2026-05-04,Lone Jack,1,Odessa,3
+2026-05-04,Scott City,11,Oran,0
+2026-05-04,Liberty,11,Park Hill,1
+2026-05-04,Oak Park,0,Park Hill South,9
+2026-05-04,Hillcrest,18,Parkview,2
+2026-05-04,Sturgeon,2,Pilot Grove,1
+2026-05-04,Oak Grove,9,Pleasant Hill,6
+2026-05-04,Stover,18,Prairie Home with Bunceton,16
+2026-05-04,Putnam County,9,Princeton,10
+2026-05-04,Pierce City,1,Purdy,3
+2026-05-04,Chaffee,18,Puxico,4
+2026-05-04,Blue Springs South,10,Raymore-Peculiar,0
+2026-05-04,Excelsior Springs,16,Raytown South,1
+2026-05-04,Lafayette County,1,Richmond,13
+2026-05-04,Doniphan,4,Risco,5
+2026-05-04,Raytown,16,Ruskin,0
+2026-05-04,West Plains,10,Salem,3
+2026-05-04,Benton,0,Savannah,10
+2026-05-04,Canton,4,Scotland County,14
+2026-05-04,Eugene,19,Smithton,0
+2026-05-04,Albany,2,South Holt,4
+2026-05-04,Mark Twain,20,South Shelby,14
+2026-05-04,Northeast (Kansas City),18,Southeast,7
+2026-05-04,Pacific,11,St. Charles,1
+2026-05-04,Ft. Zumwalt North,12,St. Charles West,10
+2026-05-04,St. Francis Borgia,3,St. Clair,1
+2026-05-04,Father Tolton,4,St. Dominic,11
+2026-05-04,Waynesville,10,St. James,4
+2026-05-04,University Academy Charter with Ewing Marion Kauffman,0,St. Michael the Archangel,16
+2026-05-04,Maplewood-Richmond Hts.,3,St. Pius X (Festus),13
+2026-05-04,Bishop DuBourg,1,St. Pius X (Festus),16
+2026-05-04,Oak Ridge,2,St. Vincent,4
+2026-05-04,Northeast Nodaway with Worth County,14,Stanberry,2
+2026-05-04,Belle,14,Steelville,2
+2026-05-04,Plato,1,Stoutland,4
+2026-05-04,Pembroke Hill,13,Summit Christian Academy,14
+2026-05-04,Grain Valley,5,Truman,0
+2026-05-04,Neelyville,10,Van Buren,5
+2026-05-04,Barstow,0,Van Horn,15
+2026-05-04,Silex,17,Van-Far,2
+2026-05-04,Orchard Farm,7,Veritas Christian Academy,3
+2026-05-04,Sarcoxie,19,Verona,5
+2026-05-04,Fordland,12,Walnut Grove,2
+2026-05-04,Silex,19,Wellsville-Middletown,0
+2026-05-04,Republic,1,Willard,13
+2026-05-04,Platte County,13,William Chrisman,1
+2026-05-04,Seymour,3,Willow Springs,5
+2026-05-04,Fox,16,Windsor (Imperial),7
+2026-05-04,Kearney,10,Winnetonka,3
