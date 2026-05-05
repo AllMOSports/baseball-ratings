@@ -183,10 +183,12 @@ def main():
         # Group by class
         by_class = {}
         for m in top_matchups:
-            by_class.setdefault(m["class"], []).append(m)
+            by_class.setdefault((m["class1"], m["class2"]), []).append(m)
  
         for cls in sorted(by_class):
-            lines.append(f"## Class {cls}")
+            c1, c2 = cls
+            header = f"## Class {c1}" if c1 == c2 else f"## Class {c1} vs Class {c2}"
+            lines.append(header)
             lines.append("| # | Team 1 | Rank | Score | Score | Rank | Team 2 | Status |")
             lines.append("|---|--------|------|-------|-------|------|--------|--------|")
             for i, m in enumerate(by_class[cls], 1):
