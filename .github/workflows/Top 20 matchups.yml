@@ -1,11 +1,9 @@
 name: Baseball Top-20 Matchup Finder
  
 on:
-  # Run automatically every day at 8:00 AM CT (13:00 UTC)
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 13 * * *"   # 8:00 AM CT daily
  
-  # Also allow manual trigger from the Actions tab
   workflow_dispatch:
     inputs:
       date_override:
@@ -18,58 +16,49 @@ jobs:
     runs-on: ubuntu-latest
  
     steps:
-      # ── 1. Check out the repo ──────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
  
-      # ── 2. Set up Python ───────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
  
-      # ── 3. Install dependencies ────────────────────────────────────────────
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pytz
+          pip install requests beautifulsoup4 pytz pillow
  
-      # ── 4. Download the latest ratings artifacts ───────────────────────────
-      #   This step pulls the ratings JSONs produced by your main ratings
-      #   workflow.  Two options are shown; pick whichever fits your setup.
+      # ── Option A: ratings files committed to repo (default) ───────────────
+      # Nothing extra needed — already checked out above.
       #
-      #   OPTION A — ratings files live in the repo (committed each morning):
-      #     Nothing extra needed; they're already checked out in step 1.
-      #
-      #   OPTION B — ratings files are uploaded as artifacts by another job:
-      #     Uncomment the block below and set WORKFLOW_NAME to the name of
-      #     your ratings workflow.
+      # ── Option B: ratings files uploaded as artifacts by ratings workflow ──
+      # Uncomment below and set workflow: to your ratings workflow filename.
       #
       # - name: Download ratings artifacts
       #   uses: dawidd6/action-download-artifact@v3
       #   with:
-      #     workflow: baseball_ratings.yml   # <-- name of your ratings workflow
+      #     workflow: baseball_ratings.yml
       #     name: ratings-json
       #     path: .
  
-      # ── 5. Run the matchup finder ──────────────────────────────────────────
       - name: Find Top-20 matchups
         env:
           DATE_OVERRIDE: ${{ github.event.inputs.date_override }}
         run: |
-          # If a date override was provided, temporarily patch the script's
-          # date.today() call via an env var the script can read.
           if [ -n "$DATE_OVERRIDE" ]; then
-            echo "Using date override: $DATE_OVERRIDE"
-            # Inject the override so the script can pick it up
             export MSHSAA_DATE_OVERRIDE="$DATE_OVERRIDE"
           fi
           python top20_matchups.py
  
-      # ── 6. Upload the markdown report as an artifact ───────────────────────
-      - name: Upload matchup report
+      - name: Generate matchup image
+        run: python generate_matchup_image.py
+ 
+      - name: Upload matchup report and image
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: top20-matchup-report
-          path: top20_matchups.md
+          path: |
+            top20_matchups.md
+            top20_matchups.png
           retention-days: 30
