@@ -77,8 +77,8 @@ def parse_matchups_md(path):
                     return int(rm.group(1)) if rm else None
                 t1, c1 = extract(parts[1])
                 r1     = extract_rank(parts[2])
-                t2, c2 = extract(parts[5])
-                r2     = extract_rank(parts[4])
+                r2     = extract_rank(parts[5])
+                t2, c2 = extract(parts[6])
                 matchups.append({
                     "section": cur_sec,
                     "team1": t1, "rank1": r1, "class1": c1,
