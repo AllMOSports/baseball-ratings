@@ -125,6 +125,10 @@ def render(date_str, matchups, overall_rankings):
         m["o1"] = overall_rankings.get(m["team1"], {}).get("overall_rank", 0)
         m["o2"] = overall_rankings.get(m["team2"], {}).get("overall_rank", 0)
  
+    # Sort by Option 4: 2 * max(rank1, rank2) — rewards matchups where even
+    # the underdog is highly ranked, balancing prestige and competitiveness.
+    matchups.sort(key=lambda m: 2 * max(m["o1"] or 9999, m["o2"] or 9999))
+ 
     IMG_W     = 1200
     PAD_X     = 30
     TITLE_H   = 90
