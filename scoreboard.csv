@@ -1280,7 +1280,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-31,SLUH,3,Lafayette (Wildwood),2
 2026-03-31,Maysville,9,Lawson,8
 2026-03-31,Joplin,13,Lebanon,2
-2026-03-31,Chaminade College Prep,7,Liberty (Wentzville),6
+2026-03-31,Chaminade College Prep,8,Liberty (Wentzville),6
 2026-03-31,Salem,2,Licking,6
 2026-03-31,Missouri Military Academy,5,Madison,1
 2026-03-31,Greenville,20,Malden,0
@@ -4009,7 +4009,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Capital City,0,Owensville,1
 2026-04-30,Webb City,18,Parkview,0
 2026-04-30,Hazelwood West,6,Parkway Central,16
-2026-04-30,Lafayette (Wildwood),11,Parkway West,1
 2026-04-30,East Buchanan,9,Penney,2
 2026-04-30,New Franklin,4,Pilot Grove,2
 2026-04-30,Norwood,14,Plato,2
@@ -4293,24 +4292,33 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Christian Brothers College,6,Westminster Christian Academy,1
 2026-05-02,Christian Brothers College,15,Westminster Christian Academy,4
 2026-05-02,Branson,0,Willard,5
+2026-05-04,Valley,3,Arcadia Valley,2
 2026-05-04,Forsyth,9,Ava,1
 2026-05-04,Rolla,11,Battle with Columbia Independent,8
 2026-05-04,Brentwood,3,Bayless,6
 2026-05-04,Gideon,1,Bell City,11
 2026-05-04,Fort Osage,10,Belton,5
+2026-05-04,Fort Osage,17,Belton,1
 2026-05-04,Central (Park Hills),12,Bismarck,2
+2026-05-04,Woodland,9,Bloomfield,7
 2026-05-04,Strafford,10,Bolivar,3
 2026-05-04,Grandview (Hillsboro),0,Bourbon,15
-2026-05-04,Lebanon,7,Branson,2
+2026-05-04,Lebanon,2,Branson,7
+2026-05-04,Mt. Vernon,9,Buffalo,8
 2026-05-04,South Iron,19,Bunker with Lesterville,0
+2026-05-04,Norwood,12,Cabool,1
 2026-05-04,Fayette,4,Calvary Lutheran,1
+2026-05-04,Portageville,11,Caruthersville with Hayti,0
 2026-05-04,Clever,5,Cassville,6
 2026-05-04,Notre Dame (Cape Girardeau),1,Central (Cape Girardeau),5
 2026-05-04,Monett,17,Central (Springfield),0
 2026-05-04,North Kansas City,1,Central (St. Joseph),12
 2026-05-04,Principia with Whitfield,1,Christian Brothers College,16
 2026-05-04,Monroe City,0,Clark County,10
+2026-05-04,Macks Creek,2,Climax Springs,1
 2026-05-04,Windsor,7,Clinton,14
+2026-05-04,Highland,0,Clopton,15
+2026-05-04,Wright City,5,Clopton,4
 2026-05-04,Warsaw,7,Cole Camp,3
 2026-05-04,Carrollton,21,Concordia,8
 2026-05-04,Skyline,1,Conway,3
@@ -4321,6 +4329,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,Kennett,5,Dexter,4
 2026-05-04,Midway,15,Drexel,0
 2026-05-04,Westminster Christian Academy,6,Duchesne,10
+2026-05-04,Bishop LeBlond,2,East Buchanan,14
+2026-05-04,Ash Grove,10,East Newton,12
 2026-05-04,East Carter,11,East Prairie,0
 2026-05-04,Sullivan,12,Eldon,3
 2026-05-04,Clearwater,6,Ellington,7
@@ -4350,6 +4360,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,Sikeston,5,Kelly,3
 2026-05-04,South Harrison,7,King City with Union Star,17
 2026-05-04,Ste. Genevieve,10,Kingston,0
+2026-05-04,Kirkwood,0,Lafayette (Wildwood),1
+2026-05-04,Richmond,13,Lafayette County,1
 2026-05-04,Kingsville,3,Lakeland,4
 2026-05-04,Lexington,3,Lathrop,8
 2026-05-04,Cameron,7,Lawson,9
@@ -4374,6 +4386,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,Southwest (Washburn),0,Miller,10
 2026-05-04,Blair Oaks,1,Moberly,3
 2026-05-04,Cuba,9,Montgomery County,13
+2026-05-04,Greenwood,2,New Covenant Academy,15
 2026-05-04,Westran,7,New Franklin,6
 2026-05-04,Centralia,13,North Callaway,3
 2026-05-04,North Andrew,1,North Harrison,11
@@ -4383,6 +4396,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,Rockwood Summit,10,Northwest (Cedar Hill),0
 2026-05-04,Lone Jack,1,Odessa,3
 2026-05-04,Scott City,11,Oran,0
+2026-05-04,"Tarkio with Fairfax, Craig",7,Osborn with Stewartsville,3
+2026-05-04,Linn,2,Owensville,10
 2026-05-04,Liberty,11,Park Hill,1
 2026-05-04,Oak Park,0,Park Hill South,9
 2026-05-04,Hillcrest,18,Parkview,2
@@ -4399,10 +4414,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,Raytown,16,Ruskin,0
 2026-05-04,West Plains,10,Salem,3
 2026-05-04,Benton,0,Savannah,10
+2026-05-04,Bucklin with Macon County,6,Schuyler County,5
 2026-05-04,Canton,4,Scotland County,14
 2026-05-04,Eugene,19,Smithton,0
 2026-05-04,Albany,2,South Holt,4
-2026-05-04,Mark Twain,20,South Shelby,14
 2026-05-04,Northeast (Kansas City),18,Southeast,7
 2026-05-04,Pacific,11,St. Charles,1
 2026-05-04,Ft. Zumwalt North,12,St. Charles West,10
@@ -4425,8 +4440,65 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,Sarcoxie,19,Verona,5
 2026-05-04,Fordland,12,Walnut Grove,2
 2026-05-04,Silex,19,Wellsville-Middletown,0
+2026-05-04,DeKalb,0,West Platte,10
 2026-05-04,Republic,1,Willard,13
 2026-05-04,Platte County,13,William Chrisman,1
 2026-05-04,Seymour,3,Willow Springs,5
 2026-05-04,Fox,16,Windsor (Imperial),7
 2026-05-04,Kearney,10,Winnetonka,3
+2026-05-05,Lockwood,6,Ash Grove,11
+2026-05-05,Hollister,2,Aurora,0
+2026-05-05,Van Horn,1,Barstow,4
+2026-05-05,Verona,2,Billings,21
+2026-05-05,Smithville,1,Blue Springs,2
+2026-05-05,Gallatin,2,Braymer with Breckenridge,1
+2026-05-05,Salisbury,14,Brookfield,0
+2026-05-05,"Tina-Avalon with Hale, Bosworth",13,Bucklin with Macon County,7
+2026-05-05,Bishop LeBlond,3,Cameron,9
+2026-05-05,Cooter,8,Caruthersville with Hayti,3
+2026-05-05,Seneca,16,Cassville,6
+2026-05-05,Maryville,3,Chillicothe,4
+2026-05-05,Macon,0,Clark County,4
+2026-05-05,Sparta,3,Conway,6
+2026-05-05,Caruthersville with Hayti,3,Cooter,8
+2026-05-05,Marionville,0,Diamond,10
+2026-05-05,Central (St. Joseph),3,East Buchanan,7
+2026-05-05,Naylor,11,Ellington,9
+2026-05-05,Stockton,0,Fair Grove,13
+2026-05-05,South Callaway,13,Fayette,3
+2026-05-05,Ava,11,Gainesville,4
+2026-05-05,Willard,11,Joplin,1
+2026-05-05,Lee's Summit West,6,Kearney,2
+2026-05-05,Lebanon,0,Kickapoo,7
+2026-05-05,Brashear with Novinger,5,Knox County,0
+2026-05-05,Green City,0,La Plata,10
+2026-05-05,Benton,16,Lafayette (St. Joseph),2
+2026-05-05,Rolla,20,Licking,5
+2026-05-05,Bolivar,7,Logan-Rogersville,10
+2026-05-05,Fordland,5,Mansfield,6
+2026-05-05,Higbee,11,Marion County,4
+2026-05-05,Branson,5,Marshfield,7
+2026-05-05,Nevada,12,McDonald County,5
+2026-05-05,East Newton,6,Mt. Vernon,7
+2026-05-05,Parkview,0,Neosho,18
+2026-05-05,Jasper,12,New Heights Christian,0
+2026-05-05,Milan,4,"Newtown-Harris with Grundy County, Tri-County",10
+2026-05-05,Central (Springfield),0,Nixa,17
+2026-05-05,Plattsburg,8,North Andrew,0
+2026-05-05,Webb City,11,Ozark,4
+2026-05-05,Laquey,13,Plato,1
+2026-05-05,South Harrison,6,Putnam County,4
+2026-05-05,Lathrop,0,Raytown South,9
+2026-05-05,Sarcoxie,1,Reeds Spring,6
+2026-05-05,Carthage,13,Republic,0
+2026-05-05,Wellington-Napoleon,12,Santa Fe with Norborne,4
+2026-05-05,St. Pius X (Kansas City),6,Savannah,2
+2026-05-05,Charleston,0,Scott City,14
+2026-05-05,Blue Eye,11,Seymour,8
+2026-05-05,Northeast (Cairo),9,Slater,2
+2026-05-05,Pleasant Hope,5,Spokane,3
+2026-05-05,Carl Junction,7,Springfield Catholic,6
+2026-05-05,Stanberry,4,St. Joseph Christian,19
+2026-05-05,Lawson,7,Trenton,4
+2026-05-05,Glendale,12,Waynesville,3
+2026-05-05,Schuyler County,14,Westran,0
