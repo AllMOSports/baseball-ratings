@@ -1533,6 +1533,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-03,Ozark,1,Lee's Summit North,12
 2026-04-03,Excelsior Springs,5,Lee's Summit West,7
 2026-04-03,Nixa,2,Liberty,3
+2026-04-03,Ft. Zumwalt West,7,Lindbergh,7
 2026-04-03,Clopton,15,Louisiana,0
 2026-04-03,Hannibal,3,Macon,1
 2026-04-03,Hazelwood East,1,McCluer North,5
@@ -4501,6 +4502,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-05,Charleston,0,Scott City,14
 2026-05-05,Blue Eye,11,Seymour,8
 2026-05-05,Northeast (Cairo),9,Slater,2
+2026-05-05,West Platte,9,Smithville,2
 2026-05-05,Pleasant Hope,5,Spokane,3
 2026-05-05,Carl Junction,7,Springfield Catholic,6
 2026-05-05,Stanberry,4,St. Joseph Christian,19
@@ -4511,6 +4513,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Jasper,4,Appleton City,5
 2026-05-06,Smith-Cotton,18,Battle with Columbia Independent,4
 2026-05-06,Chillicothe,2,Benton,12
+2026-05-06,Chillicothe,16,Bishop LeBlond,4
 2026-05-06,Lee's Summit West,10,Blue Springs,8
 2026-05-06,Staley,5,Blue Springs South,2
 2026-05-06,California,0,Boonville,10
@@ -4527,6 +4530,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Knox County,0,Clark County,10
 2026-05-06,Ladue Horton Watkins,2,Clayton,1
 2026-05-06,Lone Jack,3,Clinton,5
+2026-05-06,Van-Far,12,Clopton,5
 2026-05-06,Richland,2,Conway,13
 2026-05-06,Billings,11,Crane,1
 2026-05-06,Halfway,3,Crocker,18
@@ -4545,6 +4549,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,North Point,4,Ft. Zumwalt North,0
 2026-05-06,Ft. Zumwalt East,13,Ft. Zumwalt South,3
 2026-05-06,Francis Howell North,3,Ft. Zumwalt West,10
+2026-05-06,Francis Howell North,1,Ft. Zumwalt West,10
 2026-05-06,Raytown,0,Grain Valley,14
 2026-05-06,Winnetonka,11,Grandview,0
 2026-05-06,Father Tolton,8,Hannibal,4
@@ -4555,6 +4560,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Oak Grove,6,Holden,16
 2026-05-06,Orchard Farm,8,Holt,0
 2026-05-06,Principia with Whitfield,3,John Burroughs,9
+2026-05-06,Raytown South,0,Kearney,7
+2026-05-06,Putnam County,3,Kirksville,4
 2026-05-06,Vianney,5,Kirkwood,1
 2026-05-06,Bevier,1,La Plata,11
 2026-05-06,Raymore-Peculiar,1,Lee's Summit,5
@@ -4577,6 +4584,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Doniphan,0,Poplar Bluff,13
 2026-05-06,West County,6,Potosi,13
 2026-05-06,Camdenton,1,Rock Bridge,15
+2026-05-06,Parkway West,0,Rockwood Summit,7
 2026-05-06,Liberal,0,Sarcoxie,15
 2026-05-06,Hillsboro,1,Seckman,11
 2026-05-06,Battle with Columbia Independent,4,Smith-Cotton,3
@@ -4591,6 +4599,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Green Ridge with La Monte,6,Tipton,7
 2026-05-06,Liberty (Wentzville),2,Troy Buchanan,3
 2026-05-06,Belton,4,Truman,10
+2026-05-06,Cardinal Ritter,2,University City,12
 2026-05-06,Valle Catholic,4,Valley,0
 2026-05-06,Norwood,3,Van Buren,7
 2026-05-06,Dixon,10,Versailles,4
@@ -4601,3 +4610,134 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Parkway South,4,Westminster Christian Academy,2
 2026-05-06,Hillcrest,0,Willard,15
 2026-05-06,Duchesne,13,Wright City,5
+2026-05-07,Fox,3,Affton,14
+2026-05-07,Penney,7,Albany,8
+2026-05-07,Thayer,1,Alton,2
+2026-05-07,Montrose with Ballard,5,Archie,17
+2026-05-07,Skyline,3,Ash Grove,9
+2026-05-07,Licking,0,Ava,4
+2026-05-07,St. Elizabeth,0,Belle,1
+2026-05-07,Sikeston,11,Bernie,9
+2026-05-07,Meadville with Linn County,18,Bevier,6
+2026-05-07,Savannah,16,Bishop LeBlond,1
+2026-05-07,Eugene,2,Blair Oaks,4
+2026-05-07,Lee's Summit,4,Blue Springs South,11
+2026-05-07,Logan-Rogersville,6,Bolivar,4
+2026-05-07,Marshfield,9,Branson,1
+2026-05-07,Polo,6,Braymer with Breckenridge,0
+2026-05-07,Metro,0,Brentwood,8
+2026-05-07,Lamar,8,Butler,3
+2026-05-07,Ste. Genevieve,12,Central (Park Hills),2
+2026-05-07,Waynesville,11,Central (Springfield),4
+2026-05-07,Christian Brothers College,1,De Smet Jesuit,7
+2026-05-07,King City with Union Star,15,DeKalb,4
+2026-05-07,Saxony Lutheran,12,Delta,1
+2026-05-07,Kennett,12,Doniphan,3
+2026-05-07,Lakeland,5,Drexel,11
+2026-05-07,Center,12,East (Kansas City),1
+2026-05-07,Oak Ridge,1,East Prairie,7
+2026-05-07,Houston,20,Ellington,7
+2026-05-07,Southwest (Washburn),14,Exeter,9
+2026-05-07,North County,2,Farmington,4
+2026-05-07,Wright City,1,Fatima,2
+2026-05-07,Francis Howell Central,10,Francis Howell,11
+2026-05-07,Arcadia Valley,9,Fredericktown,3
+2026-05-07,Ft. Zumwalt South,1,Ft. Zumwalt East,9
+2026-05-07,Moberly,1,Fulton,2
+2026-05-07,Gilman City with North Daviess,0,Gallatin,9
+2026-05-07,Kickapoo,7,Glendale,2
+2026-05-07,Princeton,3,Green City,6
+2026-05-07,Lincoln,12,Green Ridge with La Monte,2
+2026-05-07,Purdy,13,Greenfield with Golden City,3
+2026-05-07,Billings,16,Greenwood,7
+2026-05-07,Sturgeon,8,Harrisburg,10
+2026-05-07,Clinton,1,Harrisonville,2
+2026-05-07,Norwood,1,Hartville,8
+2026-05-07,South Callaway,2,Hermann,3
+2026-05-07,New Bloomfield,11,Higbee,2
+2026-05-07,Windsor (Imperial),8,Hillsboro,6
+2026-05-07,Carrollton,6,Holden,7
+2026-05-07,Laquey,3,Humansville with Fair Play,4
+2026-05-07,Seckman,5,Jackson,6
+2026-05-07,McCluer North,22,Jennings,4
+2026-05-07,Bismarck,10,Kingston,0
+2026-05-07,California,3,Knob Noster,9
+2026-05-07,Atlanta,2,Knox County,1
+2026-05-07,Clayton,6,Ladue Horton Watkins,10
+2026-05-07,St. Joseph Christian,4,Lafayette (St. Joseph),14
+2026-05-07,Marquette,7,Lafayette (Wildwood),9
+2026-05-07,South Harrison,10,Lathrop,7
+2026-05-07,Carthage,4,Lebanon,6
+2026-05-07,Sherwood,14,Leeton,4
+2026-05-07,Miami (Amoret),0,Liberal,7
+2026-05-07,Bakersfield,8,Liberty (Mountain View),5
+2026-05-07,Troy Buchanan,1,Liberty (Wentzville),0
+2026-05-07,Eureka,8,Lindbergh,1
+2026-05-07,Hannibal,5,Macon,2
+2026-05-07,Gideon,13,Malden,3
+2026-05-07,Valley Park,10,Maplewood-Richmond Hts.,2
+2026-05-07,Kirksville,20,Marshall,8
+2026-05-07,Hazelwood West,0,Mehlville,15
+2026-05-07,Eldon,6,Mexico,12
+2026-05-07,Exeter,4,Miller,15
+2026-05-07,Clever,6,Monett,10
+2026-05-07,Louisiana,9,Monroe City,15
+2026-05-07,Hollister,5,Mt. Vernon,9
+2026-05-07,Van Buren,7,Naylor,0
+2026-05-07,Clarkton,0,Neelyville,11
+2026-05-07,Aurora,5,Nevada,6
+2026-05-07,Pleasant Hope,6,New Covenant Academy,7
+2026-05-07,South Nodaway with Jefferson (Conception),12,North Andrew,7
+2026-05-07,St. Clair,4,Northwest (Cedar Hill),6
+2026-05-07,John Burroughs,0,Oakville,10
+2026-05-07,Holt,11,Orchard Farm,6
+2026-05-07,Nixa,4,Ozark,5
+2026-05-07,Festus,4,Pacific,5
+2026-05-07,South Shelby,0,Palmyra,15
+2026-05-07,Joplin,20,Parkview,0
+2026-05-07,Parkway West,5,Parkway Central,3
+2026-05-07,Pattonville,13,Parkway North,3
+2026-05-07,Rockwood Summit,4,Parkway South,14
+2026-05-07,Herculaneum,6,Perryville,3
+2026-05-07,Westran,6,Pilot Grove,1
+2026-05-07,Cuba,9,Plato,7
+2026-05-07,Central (Cape Girardeau),3,Poplar Bluff,5
+2026-05-07,Valle Catholic,13,Potosi,0
+2026-05-07,Fayette,8,Prairie Home with Bunceton,1
+2026-05-07,Lutheran South,6,Priory,7
+2026-05-07,Fort Osage,6,Raytown,0
+2026-05-07,Grandview,6,Raytown South,9
+2026-05-07,Fair Grove,3,Republic,5
+2026-05-07,Halfway,5,Richland,11
+2026-05-07,Twin Rivers,8,Risco,4
+2026-05-07,Plattsburg,2,Rock Port,3
+2026-05-07,Camdenton,1,Rolla,3
+2026-05-07,Cole Camp,1,Sacred Heart,6
+2026-05-07,Willow Springs,3,Salem,10
+2026-05-07,Clark County,10,Scotland County,5
+2026-05-07,Notre Dame (Cape Girardeau),1,Scott City,9
+2026-05-07,Missouri Military Academy,4,Silex,14
+2026-05-07,Chaminade College Prep,0,SLUH,5
+2026-05-07,Hickman,5,Smith-Cotton,12
+2026-05-07,North Callaway,0,Southern Boone,10
+2026-05-07,Spokane,4,Sparta,3
+2026-05-07,Winfield,9,St. Charles West,2
+2026-05-07,Maryville,0,St. Pius X (Kansas City),15
+2026-05-07,Crystal City,3,St. Vincent,13
+2026-05-07,Crystal City,2,St. Vincent,13
+2026-05-07,Lockwood,1,Stockton,11
+2026-05-07,Harrisburg,10,Sturgeon,8
+2026-05-07,Dixon,3,Sullivan,13
+2026-05-07,New Franklin,5,Sweet Springs,4
+2026-05-07,Washington,3,Timberland,4
+2026-05-07,St. Francis Borgia,7,Union,8
+2026-05-07,Maplewood-Richmond Hts.,2,Valley Park,10
+2026-05-07,Bourbon,9,Viburnum,2
+2026-05-07,Iberia,1,Vienna,2
+2026-05-07,Boonville,0,Warrensburg,10
+2026-05-07,Neosho,0,Webb City,10
+2026-05-07,Montgomery County,19,Wellsville-Middletown,1
+2026-05-07,Hillcrest,0,West Plains,3
+2026-05-07,Maysville,4,West Platte,9
+2026-05-07,Verona,1,Wheaton,11
+2026-05-07,St. Charles West,2,Winfield,9
