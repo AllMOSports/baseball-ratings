@@ -1,36 +1,36 @@
 Team,OVR Rating,OFF Rating,DEF Rating
 Faith Christian Academy,5.71,2.07,3.65
-Salisbury,4.73,2.88,1.85
-Gainesville,4.68,2.11,2.56
+Salisbury,4.73,2.87,1.85
+Gainesville,4.67,2.11,2.56
 East Carter,4.00,0.59,3.41
-Chaffee,3.90,1.51,2.39
-Russellville,3.28,1.53,1.75
-Maysville,3.14,2.23,0.91
+Chaffee,3.90,1.50,2.39
+Russellville,3.27,1.53,1.74
+Maysville,3.13,2.23,0.91
 Purdy,2.98,0.99,1.99
-Veritas Christian Academy,2.83,0.53,2.31
-Crocker,2.82,1.88,0.94
-Silex,2.77,2.18,0.59
+Veritas Christian Academy,2.83,0.52,2.31
+Crocker,2.81,1.88,0.94
+Silex,2.76,2.17,0.59
 Neelyville,2.34,1.23,1.11
-Greenville,2.08,1.59,0.49
-Hartville,2.03,0.22,1.82
-Alton,1.98,0.39,1.60
+Greenville,2.08,1.58,0.49
+Hartville,2.03,0.21,1.82
+Alton,1.98,0.39,1.59
 St. Paul Lutheran (Concordia),1.80,1.06,0.74
 Eugene,1.68,0.27,1.41
 Tipton,1.32,0.06,1.26
-Schuyler County,0.98,-1.14,2.12
+Schuyler County,0.97,-1.14,2.11
 Iberia,0.90,-1.68,2.57
 Portageville,0.84,-0.20,1.04
 North Platte,0.77,1.65,-0.88
 Bernie,0.67,1.12,-0.45
-Linn,0.46,-1.15,1.62
+Linn,0.46,-1.16,1.61
 Fordland,0.34,-0.13,0.47
 Plattsburg,0.01,-0.53,0.54
 New Bloomfield,-0.39,-0.56,0.17
-"Northwestern (Mendon) with Brunswick, Keytesville",-0.46,1.27,-1.73
-Windsor,-0.46,0.36,-0.82
+Windsor,-0.46,0.35,-0.82
+"Northwestern (Mendon) with Brunswick, Keytesville",-0.47,1.27,-1.74
 Sacred Heart,-0.67,-1.09,0.42
-Bakersfield,-0.76,-0.25,-0.51
-Marceline,-0.82,0.27,-1.09
+Bakersfield,-0.77,-0.25,-0.51
+Marceline,-0.83,0.27,-1.09
 King City with Union Star,-1.04,-0.67,-0.37
 Van Buren,-1.12,-0.14,-0.98
 Sherwood,-1.28,-0.08,-1.20
@@ -41,54 +41,54 @@ Miller,-1.60,-1.68,0.08
 Meadow Heights,-1.92,-1.68,-0.24
 Fayette,-2.02,-1.10,-0.92
 Lincoln,-2.19,-1.14,-1.05
-Holcomb,-2.27,-2.18,-0.09
+Holcomb,-2.28,-2.18,-0.09
 New Covenant Academy,-2.30,-0.51,-1.80
-Brentwood,-2.46,-0.09,-2.38
+Brentwood,-2.47,-0.09,-2.38
 Puxico,-2.82,-1.83,-0.99
 Barstow,-2.98,-2.16,-0.82
-Gallatin,-3.22,-2.87,-0.35
-Westran,-3.29,-1.29,-2.00
-Clopton,-3.56,0.02,-3.58
+Gallatin,-3.23,-2.87,-0.36
+Westran,-3.29,-1.29,-2.01
+Clopton,-3.57,0.02,-3.59
 Marion C. Early,-3.79,-1.70,-2.09
-Spokane,-3.94,-2.91,-1.03
-Scotland County,-4.04,-1.79,-2.25
+Spokane,-3.95,-2.91,-1.03
+Scotland County,-4.05,-1.79,-2.26
 Richland,-4.12,-2.07,-2.05
 Archie,-4.25,-2.27,-1.98
 Putnam County,-4.54,-2.03,-2.51
 Jasper,-4.76,-2.72,-2.03
 Green Ridge with La Monte,-4.91,-0.43,-4.48
-Paris with Faith Walk,-4.95,-2.57,-2.38
+Paris with Faith Walk,-4.96,-2.57,-2.38
 Bishop LeBlond,-5.40,-2.02,-3.38
 Senath-Hornersville,-5.41,-4.06,-1.35
 Pleasant Hope,-5.50,-3.84,-1.66
 St. Joseph Christian,-5.79,-2.45,-3.35
-Blue Eye,-5.86,-2.14,-3.71
+Blue Eye,-5.86,-2.15,-3.71
 Northeast Nodaway with Worth County,-5.87,-2.66,-3.21
 Marionville,-6.05,-3.39,-2.67
 New Heights Christian,-6.17,-1.64,-4.53
 "Tarkio with Fairfax, Craig",-6.67,-3.42,-3.25
 Bloomfield,-6.72,-3.27,-3.45
-Canton,-7.08,-3.35,-3.73
+Canton,-7.08,-3.35,-3.74
 Slater,-7.77,-5.31,-2.47
 Midway,-7.92,-1.95,-5.97
-Crystal City,-8.03,-2.71,-5.31
+Crystal City,-8.03,-2.72,-5.31
 Santa Fe with Norborne,-8.41,-3.26,-5.15
 Harrisburg,-8.44,-3.08,-5.36
 Campbell,-8.72,-5.32,-3.39
 Crest Ridge,-9.51,-3.54,-5.97
-Polo,-10.23,-4.80,-5.44
-Knox County,-10.45,-5.57,-4.88
+Polo,-10.24,-4.80,-5.44
+Knox County,-10.46,-5.57,-4.88
 Penney,-10.63,-4.83,-5.81
 Greenwood,-10.71,-4.18,-6.53
-Louisiana,-10.77,-4.37,-6.40
+Louisiana,-10.78,-4.38,-6.40
 Plato,-10.92,-4.39,-6.53
 Charleston,-11.27,-4.02,-7.25
 Crane,-11.68,-5.53,-6.15
-South Shelby,-11.84,-5.41,-6.43
+South Shelby,-11.85,-5.41,-6.43
 Bishop DuBourg,-12.56,-6.64,-5.92
 Van-Far,-12.73,-2.78,-9.95
 Greenfield with Golden City,-12.87,-5.40,-7.47
-Milan,-14.10,-6.56,-7.53
+Milan,-14.10,-6.57,-7.53
 Malden,-14.49,-6.54,-7.96
 Winona,-15.57,-5.75,-9.82
 Osceola,-17.01,-7.02,-9.99
