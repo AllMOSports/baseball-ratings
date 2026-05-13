@@ -2,7 +2,7 @@ name: Nightly Baseball Ratings
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '37 7 * * *'
   workflow_dispatch:
 
 permissions:
