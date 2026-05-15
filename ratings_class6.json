@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 15, 2026 at 08:04 AM",
+  "last_updated": "May 15, 2026 at 08:21 AM",
   "league_average": 6.21,
   "classification": 6,
   "teams": [
@@ -85,7 +85,7 @@
       "school": "Lafayette (Wildwood)",
       "classification": 6,
       "district": 2,
-      "ovr_rating": 12.19,
+      "ovr_rating": 12.2,
       "off_rating": 5.61,
       "off_rank": 7,
       "def_rating": 6.58,
@@ -154,7 +154,7 @@
       "ovr_rating": 11.32,
       "off_rating": 6.06,
       "off_rank": 4,
-      "def_rating": 5.26,
+      "def_rating": 5.27,
       "def_rank": 23
     },
     {
@@ -294,7 +294,7 @@
       "school": "Ozark",
       "classification": 6,
       "district": 6,
-      "ovr_rating": 8.95,
+      "ovr_rating": 8.96,
       "off_rating": 4.03,
       "off_rank": 28,
       "def_rating": 4.93,
@@ -374,7 +374,7 @@
       "ovr_rating": 7.82,
       "off_rating": 2.59,
       "off_rank": 44,
-      "def_rating": 5.23,
+      "def_rating": 5.24,
       "def_rank": 25
     },
     {
@@ -492,7 +492,7 @@
       "school": "Branson",
       "classification": 6,
       "district": 6,
-      "ovr_rating": 6.27,
+      "ovr_rating": 6.28,
       "off_rating": 2.14,
       "off_rank": 48,
       "def_rating": 4.14,

@@ -1,6 +1,6 @@
 Team,OVR Rating,OFF Rating,DEF Rating
 Logan-Rogersville,9.95,4.39,5.56
-Southern Boone,9.46,4.71,4.76
+Southern Boone,9.47,4.71,4.76
 Harrisonville,9.45,4.38,5.08
 Springfield Catholic,9.05,4.60,4.45
 Orchard Farm,8.11,3.71,4.40
@@ -16,10 +16,10 @@ Boonville,5.65,2.56,3.09
 North County,5.55,1.52,4.03
 Hollister,5.52,2.41,3.11
 Helias Catholic,5.38,0.96,4.42
-Notre Dame (Cape Girardeau),5.33,1.68,3.64
-St. Michael the Archangel,5.26,3.49,1.77
+Notre Dame (Cape Girardeau),5.33,1.68,3.65
+St. Michael the Archangel,5.27,3.49,1.77
 Aurora,5.13,2.68,2.45
-Lutheran South,4.91,1.82,3.08
+Lutheran South,4.91,1.83,3.08
 Potosi,4.67,2.25,2.43
 Pleasant Hill,4.63,2.56,2.07
 St. Charles West,4.61,2.23,2.38
@@ -27,11 +27,11 @@ Strafford,4.56,1.69,2.87
 Oak Grove,4.54,2.76,1.77
 Pembroke Hill,4.48,3.20,1.28
 Bolivar,3.84,2.11,1.74
-Chillicothe,3.75,2.76,0.99
+Chillicothe,3.75,2.77,0.99
 Clayton,3.47,-0.04,3.51
 Kennett,3.28,1.88,1.40
 Sullivan,3.27,2.89,0.37
-Knob Noster,2.90,1.33,1.57
+Knob Noster,2.90,1.34,1.57
 Herculaneum,2.64,1.91,0.73
 Fulton,2.63,0.61,2.02
 Dexter,2.46,-0.72,3.17
@@ -40,10 +40,10 @@ Odessa,2.27,0.23,2.04
 Affton,2.22,2.27,-0.05
 Monett,2.05,-0.04,2.09
 Wright City,1.94,0.75,1.19
-Marshall,1.90,1.91,-0.00
+Marshall,1.91,1.91,-0.00
 Kirksville,1.84,0.57,1.27
-Mt. Vernon,1.69,-0.08,1.78
-Eldon,1.44,0.69,0.75
+Mt. Vernon,1.70,-0.08,1.78
+Eldon,1.44,0.69,0.76
 Clinton,1.32,0.51,0.81
 Lutheran St. Charles,1.26,-0.14,1.40
 Winfield,0.90,0.74,0.15
@@ -53,12 +53,12 @@ Richmond,0.64,1.31,-0.67
 Owensville,0.57,-0.84,1.42
 Maryville,0.43,-0.77,1.19
 Ste. Genevieve,0.37,0.78,-0.41
-Lafayette (St. Joseph),-0.33,1.06,-1.39
+Lafayette (St. Joseph),-0.33,1.07,-1.39
 Hallsville,-0.92,-0.45,-0.47
-Reeds Spring,-1.08,-1.77,0.70
+Reeds Spring,-1.07,-1.77,0.70
 Bayless,-1.30,-0.79,-0.51
 Cassville,-1.38,0.17,-1.55
-East Newton,-1.45,-0.66,-0.80
+East Newton,-1.45,-0.66,-0.79
 Central (Park Hills),-1.63,-1.72,0.09
 Perryville,-1.88,-1.99,0.11
 Doniphan,-2.23,-0.60,-1.63
@@ -73,7 +73,7 @@ Buffalo,-6.39,-2.77,-3.62
 Metro,-6.53,-2.31,-4.22
 Maplewood-Richmond Hts.,-7.87,-2.96,-4.91
 University Academy Charter with Ewing Marion Kauffman,-10.31,-3.28,-7.03
-Fredericktown,-11.51,-4.18,-7.34
+Fredericktown,-11.51,-4.18,-7.33
 Cardinal Ritter,-15.60,-6.25,-9.35
 STEAM Academy,-19.68,-8.54,-11.14
 Central (Kansas City),-20.63,-7.84,-12.80

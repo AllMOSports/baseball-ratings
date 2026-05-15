@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 15, 2026 at 08:04 AM",
+  "last_updated": "May 15, 2026 at 08:21 AM",
   "league_average": 6.21,
   "classification": 1,
   "teams": [
@@ -8,7 +8,7 @@
       "school": "Northland Christian",
       "classification": 1,
       "district": 13,
-      "ovr_rating": 6.62,
+      "ovr_rating": 6.63,
       "off_rating": 2.72,
       "off_rank": 2,
       "def_rating": 3.91,
@@ -75,7 +75,7 @@
       "classification": 1,
       "district": 5,
       "ovr_rating": 0.28,
-      "off_rating": 0.1,
+      "off_rating": 0.11,
       "off_rank": 8,
       "def_rating": 0.18,
       "def_rank": 6
@@ -108,7 +108,7 @@
       "classification": 1,
       "district": 8,
       "ovr_rating": -1.15,
-      "off_rating": -0.18,
+      "off_rating": -0.17,
       "off_rank": 9,
       "def_rating": -0.97,
       "def_rank": 15
@@ -163,9 +163,9 @@
       "classification": 1,
       "district": 7,
       "ovr_rating": -2.18,
-      "off_rating": -2.34,
+      "off_rating": -2.35,
       "off_rank": 23,
-      "def_rating": 0.16,
+      "def_rating": 0.17,
       "def_rank": 7
     },
     {
@@ -173,10 +173,10 @@
       "school": "New Franklin",
       "classification": 1,
       "district": 7,
-      "ovr_rating": -3.15,
+      "ovr_rating": -3.14,
       "off_rating": -2.22,
       "off_rank": 22,
-      "def_rating": -0.93,
+      "def_rating": -0.92,
       "def_rank": 14
     },
     {
@@ -209,7 +209,7 @@
       "ovr_rating": -3.66,
       "off_rating": -1.35,
       "off_rank": 13,
-      "def_rating": -2.31,
+      "def_rating": -2.3,
       "def_rank": 29
     },
     {
@@ -253,7 +253,7 @@
       "ovr_rating": -4.31,
       "off_rating": -2.39,
       "off_rank": 24,
-      "def_rating": -1.93,
+      "def_rating": -1.92,
       "def_rank": 24
     },
     {
@@ -284,7 +284,7 @@
       "classification": 1,
       "district": 6,
       "ovr_rating": -4.69,
-      "off_rating": -2.8,
+      "off_rating": -2.79,
       "off_rank": 35,
       "def_rating": -1.9,
       "def_rank": 23
@@ -302,6 +302,17 @@
     },
     {
       "ovr_rank": 28,
+      "school": "North Harrison",
+      "classification": 1,
+      "district": 15,
+      "ovr_rating": -4.94,
+      "off_rating": -3.37,
+      "off_rank": 42,
+      "def_rating": -1.58,
+      "def_rank": 20
+    },
+    {
+      "ovr_rank": 29,
       "school": "Lockwood",
       "classification": 1,
       "district": 11,
@@ -312,22 +323,11 @@
       "def_rank": 31
     },
     {
-      "ovr_rank": 29,
-      "school": "North Harrison",
-      "classification": 1,
-      "district": 15,
-      "ovr_rating": -4.95,
-      "off_rating": -3.37,
-      "off_rank": 42,
-      "def_rating": -1.58,
-      "def_rank": 20
-    },
-    {
       "ovr_rank": 30,
       "school": "Community",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -4.97,
+      "ovr_rating": -4.96,
       "off_rating": -2.57,
       "off_rank": 31,
       "def_rating": -2.4,
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Jamestown",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -5.27,
-      "off_rating": -3.18,
-      "off_rank": 39,
-      "def_rating": -2.09,
-      "def_rank": 26
-    },
-    {
-      "ovr_rank": 33,
       "school": "Billings",
       "classification": 1,
       "district": 10,
@@ -365,6 +354,17 @@
       "off_rank": 17,
       "def_rating": -3.64,
       "def_rank": 52
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Jamestown",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -5.27,
+      "off_rating": -3.18,
+      "off_rank": 39,
+      "def_rating": -2.09,
+      "def_rank": 26
     },
     {
       "ovr_rank": 34,
@@ -385,7 +385,7 @@
       "ovr_rating": -5.46,
       "off_rating": -2.74,
       "off_rank": 34,
-      "def_rating": -2.72,
+      "def_rating": -2.71,
       "def_rank": 36
     },
     {
@@ -401,6 +401,17 @@
     },
     {
       "ovr_rank": 37,
+      "school": "Albany",
+      "classification": 1,
+      "district": 15,
+      "ovr_rating": -5.82,
+      "off_rating": -2.54,
+      "off_rank": 29,
+      "def_rating": -3.28,
+      "def_rank": 41
+    },
+    {
+      "ovr_rank": 38,
       "school": "Concordia",
       "classification": 1,
       "district": 13,
@@ -409,17 +420,6 @@
       "off_rank": 25,
       "def_rating": -3.41,
       "def_rank": 45
-    },
-    {
-      "ovr_rank": 38,
-      "school": "Albany",
-      "classification": 1,
-      "district": 15,
-      "ovr_rating": -5.82,
-      "off_rating": -2.54,
-      "off_rank": 29,
-      "def_rating": -3.29,
-      "def_rank": 41
     },
     {
       "ovr_rank": 39,
@@ -451,7 +451,7 @@
       "ovr_rating": -6.22,
       "off_rating": -3.52,
       "off_rank": 47,
-      "def_rating": -2.71,
+      "def_rating": -2.7,
       "def_rank": 35
     },
     {
@@ -517,7 +517,7 @@
       "ovr_rating": -6.78,
       "off_rating": -3.22,
       "off_rank": 40,
-      "def_rating": -3.56,
+      "def_rating": -3.55,
       "def_rank": 51
     },
     {
@@ -558,7 +558,7 @@
       "school": "New Haven",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -7.41,
+      "ovr_rating": -7.4,
       "off_rating": -3.86,
       "off_rank": 52,
       "def_rating": -3.54,
@@ -638,7 +638,7 @@
       "ovr_rating": -9.05,
       "off_rating": -3.95,
       "off_rank": 53,
-      "def_rating": -5.11,
+      "def_rating": -5.1,
       "def_rank": 61
     },
     {
@@ -649,7 +649,7 @@
       "ovr_rating": -9.77,
       "off_rating": -4.92,
       "off_rank": 62,
-      "def_rating": -4.86,
+      "def_rating": -4.85,
       "def_rank": 58
     },
     {
@@ -704,7 +704,7 @@
       "ovr_rating": -11.1,
       "off_rating": -4.48,
       "off_rank": 59,
-      "def_rating": -6.62,
+      "def_rating": -6.61,
       "def_rank": 68
     },
     {
@@ -814,7 +814,7 @@
       "ovr_rating": -12.74,
       "off_rating": -5.08,
       "off_rank": 66,
-      "def_rating": -7.67,
+      "def_rating": -7.66,
       "def_rank": 79
     },
     {
@@ -856,7 +856,7 @@
       "classification": 1,
       "district": 5,
       "ovr_rating": -13.81,
-      "off_rating": -5.8,
+      "off_rating": -5.79,
       "off_rank": 73,
       "def_rating": -8.01,
       "def_rank": 82
@@ -921,7 +921,7 @@
       "school": "Climax Springs",
       "classification": 1,
       "district": 8,
-      "ovr_rating": -15.49,
+      "ovr_rating": -15.48,
       "off_rating": -7.6,
       "off_rank": 87,
       "def_rating": -7.89,
@@ -987,7 +987,7 @@
       "school": "Bucklin with Macon County",
       "classification": 1,
       "district": 5,
-      "ovr_rating": -18.1,
+      "ovr_rating": -18.09,
       "off_rating": -8.13,
       "off_rank": 90,
       "def_rating": -9.97,
@@ -1020,7 +1020,7 @@
       "school": "Delta (Deering)",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -20.34,
+      "ovr_rating": -20.33,
       "off_rating": -7.35,
       "off_rank": 85,
       "def_rating": -12.98,
