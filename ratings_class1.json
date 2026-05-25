@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 24, 2026 at 04:32 AM",
+  "last_updated": "May 25, 2026 at 06:39 AM",
   "league_average": 6.13,
   "classification": 1,
   "teams": [
@@ -522,17 +522,6 @@
     },
     {
       "ovr_rank": 48,
-      "school": "Risco",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": -7.08,
-      "off_rating": -4.19,
-      "off_rank": 55,
-      "def_rating": -2.89,
-      "def_rank": 34
-    },
-    {
-      "ovr_rank": 49,
       "school": "Hermitage",
       "classification": 1,
       "district": 11,
@@ -541,6 +530,17 @@
       "off_rank": 39,
       "def_rating": -3.9,
       "def_rank": 53
+    },
+    {
+      "ovr_rank": 49,
+      "school": "Risco",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -7.08,
+      "off_rating": -4.19,
+      "off_rank": 55,
+      "def_rating": -2.89,
+      "def_rank": 34
     },
     {
       "ovr_rank": 50,

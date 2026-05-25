@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 24, 2026 at 04:32 AM",
+  "last_updated": "May 25, 2026 at 06:39 AM",
   "league_average": 6.13,
   "classification": 2,
   "teams": [
@@ -412,17 +412,6 @@
     },
     {
       "ovr_rank": 38,
-      "school": "Van Buren",
-      "classification": 2,
-      "district": 2,
-      "ovr_rating": -1.6,
-      "off_rating": -0.47,
-      "off_rank": 30,
-      "def_rating": -1.13,
-      "def_rank": 41
-    },
-    {
-      "ovr_rank": 39,
       "school": "New Bloomfield",
       "classification": 2,
       "district": 8,
@@ -431,6 +420,17 @@
       "off_rank": 41,
       "def_rating": -0.44,
       "def_rank": 34
+    },
+    {
+      "ovr_rank": 39,
+      "school": "Van Buren",
+      "classification": 2,
+      "district": 2,
+      "ovr_rating": -1.6,
+      "off_rating": -0.47,
+      "off_rank": 30,
+      "def_rating": -1.13,
+      "def_rank": 41
     },
     {
       "ovr_rank": 40,
@@ -885,17 +885,6 @@
     },
     {
       "ovr_rank": 81,
-      "school": "Knox County",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": -10.75,
-      "off_rating": -5.84,
-      "off_rank": 90,
-      "def_rating": -4.91,
-      "def_rank": 74
-    },
-    {
-      "ovr_rank": 82,
       "school": "Plato",
       "classification": 2,
       "district": 9,
@@ -904,6 +893,17 @@
       "off_rank": 80,
       "def_rating": -6.17,
       "def_rank": 82
+    },
+    {
+      "ovr_rank": 82,
+      "school": "Knox County",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": -10.75,
+      "off_rating": -5.84,
+      "off_rank": 90,
+      "def_rating": -4.91,
+      "def_rank": 74
     },
     {
       "ovr_rank": 83,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 24, 2026 at 04:32 AM",
+  "last_updated": "May 25, 2026 at 06:39 AM",
   "league_average": 6.13,
   "classification": 6,
   "teams": [
@@ -577,17 +577,6 @@
     },
     {
       "ovr_rank": 53,
-      "school": "Truman",
-      "classification": 6,
-      "district": 7,
-      "ovr_rating": 3.99,
-      "off_rating": 1.48,
-      "off_rank": 53,
-      "def_rating": 2.51,
-      "def_rank": 49
-    },
-    {
-      "ovr_rank": 54,
       "school": "Northwest (Cedar Hill)",
       "classification": 6,
       "district": 1,
@@ -596,6 +585,17 @@
       "off_rank": 44,
       "def_rating": 1.4,
       "def_rank": 57
+    },
+    {
+      "ovr_rank": 54,
+      "school": "Truman",
+      "classification": 6,
+      "district": 7,
+      "ovr_rating": 3.99,
+      "off_rating": 1.48,
+      "off_rank": 53,
+      "def_rating": 2.51,
+      "def_rank": 49
     },
     {
       "ovr_rank": 55,
