@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 31, 2026 at 05:04 AM",
+  "last_updated": "June 01, 2026 at 08:18 AM",
   "league_average": 6.1,
   "classification": 4,
   "teams": [
@@ -31,7 +31,7 @@
       "classification": 4,
       "district": 13,
       "ovr_rating": 9.03,
-      "off_rating": 3.98,
+      "off_rating": 3.97,
       "off_rank": 5,
       "def_rating": 5.06,
       "def_rank": 3
@@ -74,7 +74,7 @@
       "school": "Excelsior Springs",
       "classification": 4,
       "district": 15,
-      "ovr_rating": 7.04,
+      "ovr_rating": 7.03,
       "off_rating": 2.76,
       "off_rank": 16,
       "def_rating": 4.27,
@@ -110,7 +110,7 @@
       "ovr_rating": 6.32,
       "off_rating": 2.76,
       "off_rank": 15,
-      "def_rating": 3.56,
+      "def_rating": 3.55,
       "def_rank": 14
     },
     {
@@ -154,7 +154,7 @@
       "ovr_rating": 5.74,
       "off_rating": 2.57,
       "off_rank": 19,
-      "def_rating": 3.18,
+      "def_rating": 3.17,
       "def_rank": 16
     },
     {
@@ -236,17 +236,6 @@
     },
     {
       "ovr_rank": 22,
-      "school": "Chillicothe",
-      "classification": 4,
-      "district": 16,
-      "ovr_rating": 4.54,
-      "off_rating": 2.91,
-      "off_rank": 13,
-      "def_rating": 1.62,
-      "def_rank": 32
-    },
-    {
-      "ovr_rank": 23,
       "school": "Lutheran South",
       "classification": 4,
       "district": 4,
@@ -255,6 +244,17 @@
       "off_rank": 32,
       "def_rating": 3.09,
       "def_rank": 18
+    },
+    {
+      "ovr_rank": 23,
+      "school": "Chillicothe",
+      "classification": 4,
+      "district": 16,
+      "ovr_rating": 4.53,
+      "off_rating": 2.91,
+      "off_rank": 13,
+      "def_rating": 1.62,
+      "def_rank": 32
     },
     {
       "ovr_rank": 24,
@@ -294,7 +294,7 @@
       "school": "Potosi",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 4.3,
+      "ovr_rating": 4.29,
       "off_rating": 1.89,
       "off_rank": 25,
       "def_rating": 2.41,
@@ -316,7 +316,7 @@
       "school": "Bolivar",
       "classification": 4,
       "district": 10,
-      "ovr_rating": 3.69,
+      "ovr_rating": 3.68,
       "off_rating": 2.08,
       "off_rank": 23,
       "def_rating": 1.61,
@@ -327,7 +327,7 @@
       "school": "Clayton",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 3.5,
+      "ovr_rating": 3.49,
       "off_rating": 0.17,
       "off_rank": 47,
       "def_rating": 3.33,
@@ -349,7 +349,7 @@
       "school": "Kennett",
       "classification": 4,
       "district": 1,
-      "ovr_rating": 2.97,
+      "ovr_rating": 2.96,
       "off_rating": 1.66,
       "off_rank": 28,
       "def_rating": 1.31,
@@ -360,7 +360,7 @@
       "school": "Affton",
       "classification": 4,
       "district": 4,
-      "ovr_rating": 2.64,
+      "ovr_rating": 2.63,
       "off_rating": 2.35,
       "off_rank": 22,
       "def_rating": 0.29,
@@ -418,7 +418,7 @@
       "ovr_rating": 2.07,
       "off_rating": 0.45,
       "off_rank": 43,
-      "def_rating": 1.63,
+      "def_rating": 1.62,
       "def_rank": 31
     },
     {
@@ -503,7 +503,7 @@
       "school": "St. Charles",
       "classification": 4,
       "district": 6,
-      "ovr_rating": 1.13,
+      "ovr_rating": 1.12,
       "off_rating": 0.52,
       "off_rank": 41,
       "def_rating": 0.61,
@@ -526,9 +526,9 @@
       "classification": 4,
       "district": 7,
       "ovr_rating": 1.0,
-      "off_rating": -0.2,
+      "off_rating": -0.19,
       "off_rank": 53,
-      "def_rating": 1.2,
+      "def_rating": 1.19,
       "def_rank": 40
     },
     {
@@ -539,7 +539,7 @@
       "ovr_rating": 0.83,
       "off_rating": 0.59,
       "off_rank": 40,
-      "def_rating": 0.25,
+      "def_rating": 0.24,
       "def_rank": 51
     },
     {
@@ -569,7 +569,7 @@
       "school": "Richmond",
       "classification": 4,
       "district": 15,
-      "ovr_rating": 0.35,
+      "ovr_rating": 0.34,
       "off_rating": 1.34,
       "off_rank": 34,
       "def_rating": -1.0,
@@ -624,7 +624,7 @@
       "school": "Hallsville",
       "classification": 4,
       "district": 8,
-      "ovr_rating": -0.89,
+      "ovr_rating": -0.9,
       "off_rating": -0.63,
       "off_rank": 55,
       "def_rating": -0.27,
@@ -737,7 +737,7 @@
       "ovr_rating": -3.29,
       "off_rating": -1.09,
       "off_rank": 62,
-      "def_rating": -2.2,
+      "def_rating": -2.21,
       "def_rank": 67
     },
     {
@@ -781,7 +781,7 @@
       "ovr_rating": -6.35,
       "off_rating": -3.26,
       "off_rank": 73,
-      "def_rating": -3.08,
+      "def_rating": -3.09,
       "def_rank": 69
     },
     {
@@ -811,7 +811,7 @@
       "school": "University Academy Charter with Ewing Marion Kauffman",
       "classification": 4,
       "district": 14,
-      "ovr_rating": -9.84,
+      "ovr_rating": -9.85,
       "off_rating": -3.42,
       "off_rank": 74,
       "def_rating": -6.42,
@@ -822,7 +822,7 @@
       "school": "Fredericktown",
       "classification": 4,
       "district": 1,
-      "ovr_rating": -11.65,
+      "ovr_rating": -11.66,
       "off_rating": -4.17,
       "off_rank": 75,
       "def_rating": -7.49,
@@ -866,7 +866,7 @@
       "school": "Gateway Science Charter",
       "classification": 4,
       "district": 5,
-      "ovr_rating": -19.92,
+      "ovr_rating": -19.93,
       "off_rating": -6.98,
       "off_rank": 77,
       "def_rating": -12.95,

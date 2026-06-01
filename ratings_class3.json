@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 31, 2026 at 05:04 AM",
+  "last_updated": "June 01, 2026 at 08:18 AM",
   "league_average": 6.1,
   "classification": 3,
   "teams": [
@@ -9,7 +9,7 @@
       "classification": 3,
       "district": 5,
       "ovr_rating": 9.17,
-      "off_rating": 4.1,
+      "off_rating": 4.11,
       "off_rank": 3,
       "def_rating": 5.06,
       "def_rank": 1
@@ -77,7 +77,7 @@
       "ovr_rating": 4.62,
       "off_rating": 2.04,
       "off_rank": 9,
-      "def_rating": 2.58,
+      "def_rating": 2.57,
       "def_rank": 9
     },
     {
@@ -108,7 +108,7 @@
       "classification": 3,
       "district": 3,
       "ovr_rating": 3.47,
-      "off_rating": 1.24,
+      "off_rating": 1.23,
       "off_rank": 18,
       "def_rating": 2.24,
       "def_rank": 14
@@ -132,7 +132,7 @@
       "ovr_rating": 3.12,
       "off_rating": 0.29,
       "off_rank": 25,
-      "def_rating": 2.84,
+      "def_rating": 2.83,
       "def_rank": 8
     },
     {
@@ -151,7 +151,7 @@
       "school": "Palmyra",
       "classification": 3,
       "district": 6,
-      "ovr_rating": 2.93,
+      "ovr_rating": 2.92,
       "off_rating": 2.72,
       "off_rank": 6,
       "def_rating": 0.21,
@@ -162,7 +162,7 @@
       "school": "Carrollton",
       "classification": 3,
       "district": 15,
-      "ovr_rating": 2.92,
+      "ovr_rating": 2.91,
       "off_rating": 1.8,
       "off_rank": 12,
       "def_rating": 1.11,
@@ -239,7 +239,7 @@
       "school": "Priory",
       "classification": 3,
       "district": 4,
-      "ovr_rating": 1.91,
+      "ovr_rating": 1.9,
       "off_rating": 2.26,
       "off_rank": 7,
       "def_rating": -0.36,
@@ -283,7 +283,7 @@
       "school": "Forsyth",
       "classification": 3,
       "district": 10,
-      "ovr_rating": 1.43,
+      "ovr_rating": 1.42,
       "off_rating": 0.06,
       "off_rank": 33,
       "def_rating": 1.37,
@@ -385,7 +385,7 @@
       "ovr_rating": -0.07,
       "off_rating": -0.06,
       "off_rank": 37,
-      "def_rating": -0.01,
+      "def_rating": -0.02,
       "def_rank": 33
     },
     {
@@ -460,7 +460,7 @@
       "classification": 3,
       "district": 13,
       "ovr_rating": -2.14,
-      "off_rating": -1.63,
+      "off_rating": -1.64,
       "off_rank": 47,
       "def_rating": -0.5,
       "def_rank": 39
@@ -481,8 +481,8 @@
       "school": "Thayer",
       "classification": 3,
       "district": 9,
-      "ovr_rating": -2.92,
-      "off_rating": -0.61,
+      "ovr_rating": -2.93,
+      "off_rating": -0.62,
       "off_rank": 40,
       "def_rating": -2.31,
       "def_rank": 54
@@ -506,7 +506,7 @@
       "ovr_rating": -3.68,
       "off_rating": -1.98,
       "off_rank": 51,
-      "def_rating": -1.69,
+      "def_rating": -1.7,
       "def_rank": 44
     },
     {
@@ -517,7 +517,7 @@
       "ovr_rating": -3.78,
       "off_rating": -2.01,
       "off_rank": 52,
-      "def_rating": -1.77,
+      "def_rating": -1.78,
       "def_rank": 45
     },
     {
@@ -528,7 +528,7 @@
       "ovr_rating": -3.8,
       "off_rating": -1.19,
       "off_rank": 45,
-      "def_rating": -2.61,
+      "def_rating": -2.62,
       "def_rank": 56
     },
     {
@@ -569,7 +569,7 @@
       "school": "Elsberry",
       "classification": 3,
       "district": 5,
-      "ovr_rating": -4.2,
+      "ovr_rating": -4.21,
       "off_rating": -3.31,
       "off_rank": 60,
       "def_rating": -0.89,
@@ -605,7 +605,7 @@
       "ovr_rating": -4.56,
       "off_rating": -1.43,
       "off_rank": 46,
-      "def_rating": -3.13,
+      "def_rating": -3.14,
       "def_rank": 62
     },
     {
@@ -693,7 +693,7 @@
       "ovr_rating": -6.42,
       "off_rating": -3.41,
       "off_rank": 63,
-      "def_rating": -3.0,
+      "def_rating": -3.01,
       "def_rank": 60
     },
     {
@@ -704,7 +704,7 @@
       "ovr_rating": -6.57,
       "off_rating": -3.01,
       "off_rank": 59,
-      "def_rating": -3.55,
+      "def_rating": -3.56,
       "def_rank": 64
     },
     {
@@ -734,7 +734,7 @@
       "school": "Southwest (Washburn)",
       "classification": 3,
       "district": 11,
-      "ovr_rating": -8.63,
+      "ovr_rating": -8.64,
       "off_rating": -4.55,
       "off_rank": 71,
       "def_rating": -4.09,
@@ -778,7 +778,7 @@
       "school": "Butler",
       "classification": 3,
       "district": 14,
-      "ovr_rating": -9.92,
+      "ovr_rating": -9.93,
       "off_rating": -3.71,
       "off_rank": 66,
       "def_rating": -6.22,
@@ -800,7 +800,7 @@
       "school": "Steelville",
       "classification": 3,
       "district": 8,
-      "ovr_rating": -11.08,
+      "ovr_rating": -11.09,
       "off_rating": -5.46,
       "off_rank": 77,
       "def_rating": -5.62,
@@ -811,7 +811,7 @@
       "school": "Kingston",
       "classification": 3,
       "district": 3,
-      "ovr_rating": -11.6,
+      "ovr_rating": -11.61,
       "off_rating": -5.6,
       "off_rank": 78,
       "def_rating": -6.01,
@@ -880,7 +880,7 @@
       "ovr_rating": -14.37,
       "off_rating": -4.48,
       "off_rank": 70,
-      "def_rating": -9.88,
+      "def_rating": -9.89,
       "def_rank": 80
     },
     {
