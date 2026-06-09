@@ -112,8 +112,8 @@ Capital City,4.77,1.47,3.30
 Licking,4.64,1.95,2.69
 Oak Grove,4.61,2.99,1.62
 Chillicothe,4.55,2.92,1.63
-Lutheran South,4.48,1.43,3.05
 Gainesville,4.48,2.09,2.38
+Lutheran South,4.48,1.43,3.05
 Central (St. Joseph),4.47,1.38,3.09
 Pleasant Hill,4.45,2.45,2.00
 Strafford,4.40,1.65,2.74
@@ -131,12 +131,12 @@ St. Charles West,3.83,1.91,1.92
 Webster Groves,3.79,1.89,1.90
 Bolivar,3.68,2.07,1.62
 Lebanon,3.65,1.67,1.98
-Saxony Lutheran,3.62,1.19,2.44
 Hannibal,3.62,2.18,1.43
+Saxony Lutheran,3.62,1.19,2.44
 St. Elizabeth,3.57,1.41,2.16
 Chaffee,3.49,1.31,2.18
-Sikeston,3.47,1.13,2.34
 Pattonville,3.47,1.38,2.09
+Sikeston,3.47,1.13,2.34
 Clayton,3.42,0.13,3.29
 Camdenton,3.40,1.67,1.73
 Jefferson (Festus),3.35,1.18,2.17
@@ -157,8 +157,8 @@ St. Pius X (Festus),2.71,2.14,0.57
 Silex,2.70,1.88,0.81
 Affton,2.58,2.32,0.26
 Russellville,2.57,0.96,1.62
-Fulton,2.56,0.44,2.12
 John Burroughs,2.56,0.25,2.31
+Fulton,2.56,0.44,2.12
 Lamar,2.51,1.63,0.89
 Maysville,2.50,2.08,0.42
 Knob Noster,2.50,1.21,1.29
@@ -168,8 +168,8 @@ St. Paul Lutheran (Concordia),2.32,1.54,0.78
 Dexter,2.31,-0.70,3.02
 Veritas Christian Academy,2.31,0.59,1.72
 South Callaway,2.19,0.39,1.81
-Odessa,2.09,0.47,1.63
 Macon,2.09,-0.23,2.32
+Odessa,2.09,0.47,1.63
 DeSoto,2.07,0.43,1.65
 Neelyville,1.92,0.63,1.29
 St. Clair,1.87,-0.06,1.93
@@ -181,8 +181,8 @@ Eugene,1.73,0.32,1.41
 Marshall,1.71,1.66,0.05
 Alton,1.67,0.18,1.49
 Lutheran North,1.58,1.26,0.32
-Monett,1.57,-0.11,1.69
 Ft. Zumwalt South,1.57,0.95,0.62
+Monett,1.57,-0.11,1.69
 Wright City,1.54,0.41,1.13
 Eldon,1.50,0.83,0.67
 Mt. Vernon,1.50,-0.02,1.52
@@ -200,33 +200,33 @@ Tipton,0.98,0.08,0.90
 Schuyler County,0.94,-0.97,1.92
 North Callaway,0.92,0.06,0.86
 Bernie,0.90,1.28,-0.38
-McDonald County,0.78,-0.05,0.83
 Winfield,0.78,0.57,0.21
+McDonald County,0.78,-0.05,0.83
 Iberia,0.75,-1.66,2.40
 Linn,0.43,-1.27,1.70
 Lone Jack,0.40,0.56,-0.15
-Richmond,0.38,1.37,-0.99
 Fordland,0.38,-0.37,0.76
+Richmond,0.38,1.37,-0.99
 Houston,0.36,-0.03,0.39
 Ste. Genevieve,0.35,0.61,-0.26
 Owensville,0.33,-0.93,1.25
-Clever,0.27,0.11,0.16
 North Platte,0.27,1.49,-1.22
+Clever,0.27,0.11,0.16
 Diamond,0.26,0.12,0.15
 Waynesville,0.16,0.62,-0.46
-West County,0.12,0.33,-0.21
 Maryville,0.12,-0.84,0.96
+West County,0.12,0.33,-0.21
 Stockton,0.09,0.18,-0.08
-West Nodaway with Nodaway-Holt,0.06,0.55,-0.48
 Holt,0.06,0.88,-0.82
+West Nodaway with Nodaway-Holt,0.06,0.55,-0.48
 Atlanta,0.04,-0.53,0.57
 Warsaw,-0.05,-0.05,-0.00
 El Dorado Springs,-0.08,-0.36,0.28
 Windsor (Imperial),-0.11,-0.17,0.06
 Plattsburg,-0.19,-0.50,0.31
 Lawson,-0.22,0.37,-0.59
-Bayless,-0.25,-0.30,0.06
 Advance,-0.25,0.38,-0.64
+Bayless,-0.25,-0.30,0.06
 Conway,-0.30,-0.00,-0.29
 Wellington-Napoleon,-0.32,0.60,-0.92
 North Shelby,-0.34,-0.71,0.37
@@ -245,8 +245,8 @@ Reeds Spring,-1.08,-1.78,0.71
 Bakersfield,-1.21,-0.13,-1.08
 Holcomb,-1.37,-1.70,0.33
 Brentwood,-1.38,0.35,-1.73
-Dixon,-1.45,0.08,-1.54
 Vienna,-1.45,-0.74,-0.71
+Dixon,-1.45,0.08,-1.54
 Mansfield,-1.46,-1.62,0.16
 St. Vincent,-1.49,-0.92,-0.58
 Cassville,-1.54,0.08,-1.63
@@ -300,8 +300,8 @@ Leopold,-4.11,-2.73,-1.37
 Mark Twain,-4.20,-0.67,-3.53
 Marion C. Early,-4.20,-1.86,-2.34
 Elsberry,-4.25,-3.33,-0.92
-Arcadia Valley,-4.41,-2.21,-2.20
 Putnam County,-4.41,-1.88,-2.54
+Arcadia Valley,-4.41,-2.21,-2.20
 Scotland County,-4.44,-1.82,-2.63
 Sweet Springs,-4.46,-2.81,-1.65
 Northwest (Hughesville),-4.50,-2.57,-1.93
@@ -315,12 +315,12 @@ Sparta,-4.69,-2.44,-2.25
 Paris with Faith Walk,-4.81,-2.32,-2.49
 Northeast (Cairo),-4.83,-2.91,-1.92
 Naylor,-4.91,-1.92,-2.99
-Versailles,-4.96,-2.43,-2.53
 Lockwood,-4.96,-2.50,-2.46
+Versailles,-4.96,-2.43,-2.53
 Caruthersville with Hayti,-5.00,-3.04,-1.96
 Pleasant Hope,-5.06,-3.03,-2.03
-Gilman City with North Daviess,-5.08,-1.89,-3.18
 Jasper,-5.08,-2.82,-2.25
+Gilman City with North Daviess,-5.08,-1.89,-3.18
 Green Ridge with La Monte,-5.09,-0.72,-4.38
 Senath-Hornersville,-5.13,-3.72,-1.41
 Oak Ridge,-5.19,-3.37,-1.82
@@ -341,9 +341,9 @@ Hermann,-5.74,-3.54,-2.20
 Marionville,-5.79,-3.53,-2.27
 Salem,-5.81,-2.57,-3.24
 New Heights Christian,-5.84,-2.00,-3.84
-Twin Rivers,-5.85,-3.90,-1.96
 Jamestown,-5.85,-3.52,-2.34
 Monroe City,-5.85,-2.11,-3.75
+Twin Rivers,-5.85,-3.90,-1.96
 Parkway North,-5.89,-1.92,-3.96
 Northeast Nodaway with Worth County,-5.91,-2.13,-3.78
 Concordia,-6.06,-2.52,-3.55
@@ -378,8 +378,8 @@ Midway,-7.86,-2.13,-5.73
 Brookfield,-7.90,-3.37,-4.53
 Glasgow,-8.02,-3.86,-4.16
 Lakeland,-8.06,-4.48,-3.57
-Santa Fe with Norborne,-8.20,-3.56,-4.65
 Kingsville,-8.20,-3.03,-5.17
+Santa Fe with Norborne,-8.20,-3.56,-4.65
 Stoutland,-8.23,-4.95,-3.28
 Crystal City,-8.36,-2.91,-5.45
 Campbell,-8.44,-4.82,-3.62
@@ -443,8 +443,8 @@ Bevier,-13.82,-5.85,-7.97
 Milan,-14.13,-6.60,-7.54
 Malden,-14.13,-6.29,-7.84
 Cardinal Ritter,-14.44,-5.41,-9.03
-Grandview (Hillsboro),-14.48,-4.54,-9.94
 "Tina-Avalon with Hale, Bosworth",-14.48,-6.38,-8.10
+Grandview (Hillsboro),-14.48,-4.54,-9.94
 Pattonsburg with Winston,-14.56,-7.51,-7.04
 Green City,-14.85,-5.95,-8.90
 Wellsville-Middletown,-15.08,-6.49,-8.58
