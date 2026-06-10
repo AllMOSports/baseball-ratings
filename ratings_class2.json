@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 09, 2026 at 05:49 AM",
+  "last_updated": "June 10, 2026 at 06:13 AM",
   "league_average": 6.1,
   "classification": 2,
   "teams": [
@@ -984,17 +984,6 @@
     },
     {
       "ovr_rank": 90,
-      "school": "Milan",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": -14.13,
-      "off_rating": -6.6,
-      "off_rank": 93,
-      "def_rating": -7.54,
-      "def_rank": 89
-    },
-    {
-      "ovr_rank": 91,
       "school": "Malden",
       "classification": 2,
       "district": 1,
@@ -1003,6 +992,17 @@
       "off_rank": 91,
       "def_rating": -7.84,
       "def_rank": 90
+    },
+    {
+      "ovr_rank": 91,
+      "school": "Milan",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": -14.13,
+      "off_rating": -6.6,
+      "off_rank": 93,
+      "def_rating": -7.54,
+      "def_rank": 89
     },
     {
       "ovr_rank": 92,

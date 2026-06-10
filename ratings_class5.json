@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 09, 2026 at 05:49 AM",
+  "last_updated": "June 10, 2026 at 06:13 AM",
   "league_average": 6.1,
   "classification": 5,
   "teams": [
@@ -49,17 +49,6 @@
     },
     {
       "ovr_rank": 5,
-      "school": "Marshfield",
-      "classification": 5,
-      "district": 5,
-      "ovr_rating": 9.89,
-      "off_rating": 5.25,
-      "off_rank": 4,
-      "def_rating": 4.63,
-      "def_rank": 11
-    },
-    {
-      "ovr_rank": 6,
       "school": "St. Dominic",
       "classification": 5,
       "district": 4,
@@ -68,6 +57,17 @@
       "off_rank": 14,
       "def_rating": 5.93,
       "def_rank": 2
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Marshfield",
+      "classification": 5,
+      "district": 5,
+      "ovr_rating": 9.89,
+      "off_rating": 5.25,
+      "off_rank": 4,
+      "def_rating": 4.63,
+      "def_rank": 11
     },
     {
       "ovr_rank": 7,
