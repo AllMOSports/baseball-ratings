@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 10, 2026 at 06:13 AM",
+  "last_updated": "June 11, 2026 at 07:00 AM",
   "league_average": 6.1,
   "classification": 1,
   "teams": [
@@ -907,17 +907,6 @@
     },
     {
       "ovr_rank": 83,
-      "school": "Climax Springs",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": -15.13,
-      "off_rating": -7.32,
-      "off_rank": 84,
-      "def_rating": -7.81,
-      "def_rank": 78
-    },
-    {
-      "ovr_rank": 84,
       "school": "Montrose with Ballard",
       "classification": 1,
       "district": 12,
@@ -926,6 +915,17 @@
       "off_rank": 81,
       "def_rating": -8.19,
       "def_rank": 82
+    },
+    {
+      "ovr_rank": 84,
+      "school": "Climax Springs",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": -15.13,
+      "off_rating": -7.32,
+      "off_rank": 84,
+      "def_rating": -7.81,
+      "def_rank": 78
     },
     {
       "ovr_rank": 85,
