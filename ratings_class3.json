@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 11, 2026 at 07:00 AM",
+  "last_updated": "June 12, 2026 at 06:30 AM",
   "league_average": 6.1,
   "classification": 3,
   "teams": [
@@ -533,17 +533,6 @@
     },
     {
       "ovr_rank": 49,
-      "school": "Liberty (Mountain View)",
-      "classification": 3,
-      "district": 9,
-      "ovr_rating": -3.86,
-      "off_rating": -1.21,
-      "off_rank": 45,
-      "def_rating": -2.65,
-      "def_rank": 57
-    },
-    {
-      "ovr_rank": 50,
       "school": "Trenton",
       "classification": 3,
       "district": 15,
@@ -552,6 +541,17 @@
       "off_rank": 44,
       "def_rating": -2.92,
       "def_rank": 59
+    },
+    {
+      "ovr_rank": 50,
+      "school": "Liberty (Mountain View)",
+      "classification": 3,
+      "district": 9,
+      "ovr_rating": -3.86,
+      "off_rating": -1.21,
+      "off_rank": 45,
+      "def_rating": -2.65,
+      "def_rank": 57
     },
     {
       "ovr_rank": 51,
@@ -654,17 +654,6 @@
     },
     {
       "ovr_rank": 60,
-      "school": "Twin Rivers",
-      "classification": 3,
-      "district": 1,
-      "ovr_rating": -5.85,
-      "off_rating": -3.9,
-      "off_rank": 67,
-      "def_rating": -1.96,
-      "def_rank": 46
-    },
-    {
-      "ovr_rank": 61,
       "school": "Monroe City",
       "classification": 3,
       "district": 6,
@@ -673,6 +662,17 @@
       "off_rank": 53,
       "def_rating": -3.75,
       "def_rank": 65
+    },
+    {
+      "ovr_rank": 61,
+      "school": "Twin Rivers",
+      "classification": 3,
+      "district": 1,
+      "ovr_rating": -5.85,
+      "off_rating": -3.9,
+      "off_rank": 67,
+      "def_rating": -1.96,
+      "def_rank": 46
     },
     {
       "ovr_rank": 62,

@@ -24,8 +24,8 @@ Seckman,10.23,3.53,6.70
 Raymore-Peculiar,10.19,5.42,4.77
 Summit Christian Academy,10.13,6.41,3.73
 Ft. Zumwalt West,9.90,4.28,5.62
-St. Dominic,9.89,3.95,5.93
 Marshfield,9.89,5.25,4.63
+St. Dominic,9.89,3.95,5.93
 Christian Brothers College,9.86,4.68,5.18
 Rolla,9.75,4.98,4.77
 Logan-Rogersville,9.65,4.29,5.36
@@ -42,8 +42,8 @@ Union,8.85,4.10,4.76
 Poplar Bluff,8.82,4.77,4.05
 Chaminade College Prep,8.81,4.83,3.98
 Timberland,8.73,4.35,4.38
-Platte County,8.68,3.40,5.27
 Glendale,8.68,4.37,4.32
+Platte County,8.68,3.40,5.27
 Parkway South,8.65,4.11,4.55
 Lee's Summit West,8.62,4.89,3.74
 Warrensburg,8.59,3.59,4.99
@@ -76,8 +76,8 @@ Smith-Cotton,6.71,4.51,2.20
 Farmington,6.58,2.83,3.74
 Westminster Christian Academy,6.43,2.79,3.64
 Winnetonka,6.40,2.05,4.35
-Parkway Central,6.38,2.34,4.04
 Northland Christian,6.38,2.54,3.83
+Parkway Central,6.38,2.34,4.04
 Seneca,6.32,2.77,3.54
 Blue Springs,6.31,3.54,2.77
 Ft. Zumwalt North,6.25,3.08,3.17
@@ -131,12 +131,12 @@ St. Charles West,3.83,1.91,1.92
 Webster Groves,3.79,1.89,1.90
 Bolivar,3.68,2.07,1.62
 Lebanon,3.65,1.67,1.98
-Hannibal,3.62,2.18,1.43
 Saxony Lutheran,3.62,1.19,2.44
+Hannibal,3.62,2.18,1.43
 St. Elizabeth,3.57,1.41,2.16
 Chaffee,3.49,1.31,2.18
-Pattonville,3.47,1.38,2.09
 Sikeston,3.47,1.13,2.34
+Pattonville,3.47,1.38,2.09
 Clayton,3.42,0.13,3.29
 Camdenton,3.40,1.67,1.73
 Jefferson (Festus),3.35,1.18,2.17
@@ -160,13 +160,13 @@ Russellville,2.57,0.96,1.62
 Fulton,2.56,0.44,2.12
 John Burroughs,2.56,0.25,2.31
 Lamar,2.51,1.63,0.89
-Knob Noster,2.50,1.21,1.29
 Maysville,2.50,2.08,0.42
+Knob Noster,2.50,1.21,1.29
 Herculaneum,2.41,1.66,0.75
 Crocker,2.35,1.74,0.61
 St. Paul Lutheran (Concordia),2.32,1.54,0.78
-Veritas Christian Academy,2.31,0.59,1.72
 Dexter,2.31,-0.70,3.02
+Veritas Christian Academy,2.31,0.59,1.72
 South Callaway,2.19,0.39,1.81
 Macon,2.09,-0.23,2.32
 Odessa,2.09,0.47,1.63
@@ -181,16 +181,16 @@ Eugene,1.73,0.32,1.41
 Marshall,1.71,1.66,0.05
 Alton,1.67,0.18,1.49
 Lutheran North,1.58,1.26,0.32
-Monett,1.57,-0.11,1.69
 Ft. Zumwalt South,1.57,0.95,0.62
+Monett,1.57,-0.11,1.69
 Wright City,1.54,0.41,1.13
-Eldon,1.50,0.83,0.67
 Mt. Vernon,1.50,-0.02,1.52
+Eldon,1.50,0.83,0.67
 Belle,1.45,-0.02,1.47
 Forsyth,1.40,0.06,1.34
 Clark County,1.39,0.12,1.27
-Kelly,1.24,-0.90,2.14
 Greenville,1.24,1.17,0.08
+Kelly,1.24,-0.90,2.14
 Clinton,1.22,0.46,0.76
 Hartville,1.16,0.10,1.06
 St. Charles,1.07,0.49,0.57
@@ -205,13 +205,13 @@ Winfield,0.78,0.57,0.21
 Iberia,0.75,-1.66,2.40
 Linn,0.43,-1.27,1.70
 Lone Jack,0.40,0.56,-0.15
-Fordland,0.38,-0.37,0.76
 Richmond,0.38,1.37,-0.99
+Fordland,0.38,-0.37,0.76
 Houston,0.36,-0.03,0.39
 Ste. Genevieve,0.35,0.61,-0.26
 Owensville,0.33,-0.93,1.25
-Clever,0.27,0.11,0.16
 North Platte,0.27,1.49,-1.22
+Clever,0.27,0.11,0.16
 Diamond,0.26,0.12,0.15
 Waynesville,0.16,0.62,-0.46
 Maryville,0.12,-0.84,0.96
@@ -245,14 +245,14 @@ Reeds Spring,-1.08,-1.78,0.71
 Bakersfield,-1.21,-0.13,-1.08
 Holcomb,-1.37,-1.70,0.33
 Brentwood,-1.38,0.35,-1.73
-Dixon,-1.45,0.08,-1.54
 Vienna,-1.45,-0.74,-0.71
+Dixon,-1.45,0.08,-1.54
 Mansfield,-1.46,-1.62,0.16
 St. Vincent,-1.49,-0.92,-0.58
 Cassville,-1.54,0.08,-1.63
 East Newton,-1.59,-0.75,-0.84
-Central (Park Hills),-1.62,-1.43,-0.19
 Cooter,-1.62,-1.59,-0.03
+Central (Park Hills),-1.62,-1.43,-0.19
 Sherwood,-1.73,-0.30,-1.43
 New Bloomfield,-1.78,-1.21,-0.57
 Center,-1.81,-1.43,-0.38
@@ -273,8 +273,8 @@ Lincoln,-2.55,-1.12,-1.43
 Mountain Grove,-2.65,-1.63,-1.02
 New Covenant Academy,-2.71,-0.81,-1.91
 Doniphan,-2.79,-0.81,-1.99
-Cuba,-2.90,-1.78,-1.12
 Norwood,-2.90,-2.31,-0.59
+Cuba,-2.90,-1.78,-1.12
 Thayer,-2.95,-0.62,-2.33
 Gallatin,-3.01,-2.64,-0.38
 Osage,-3.07,-1.25,-1.82
@@ -292,13 +292,13 @@ Cameron,-3.75,-1.98,-1.77
 Clopton,-3.79,-0.48,-3.31
 New Franklin,-3.83,-2.62,-1.21
 Lathrop,-3.84,-1.88,-1.96
-Liberty (Mountain View),-3.86,-1.21,-2.65
 Trenton,-3.86,-0.94,-2.92
+Liberty (Mountain View),-3.86,-1.21,-2.65
 Richland,-3.88,-2.18,-1.70
 Raytown,-4.04,-1.67,-2.37
 Leopold,-4.11,-2.73,-1.37
-Marion C. Early,-4.20,-1.86,-2.34
 Mark Twain,-4.20,-0.67,-3.53
+Marion C. Early,-4.20,-1.86,-2.34
 Elsberry,-4.25,-3.33,-0.92
 Putnam County,-4.41,-1.88,-2.54
 Arcadia Valley,-4.41,-2.21,-2.20
@@ -306,8 +306,8 @@ Scotland County,-4.44,-1.82,-2.63
 Sweet Springs,-4.46,-2.81,-1.65
 Northwest (Hughesville),-4.50,-2.57,-1.93
 Pierce City,-4.52,-1.41,-3.12
-Wheatland,-4.60,-2.56,-2.05
 Spokane,-4.60,-3.18,-1.42
+Wheatland,-4.60,-2.56,-2.05
 Van Horn,-4.61,-2.11,-2.51
 East Prairie,-4.64,-2.59,-2.05
 Raytown South,-4.66,-1.87,-2.79
@@ -315,12 +315,12 @@ Sparta,-4.69,-2.44,-2.25
 Paris with Faith Walk,-4.81,-2.32,-2.49
 Northeast (Cairo),-4.83,-2.91,-1.92
 Naylor,-4.91,-1.92,-2.99
-Versailles,-4.96,-2.43,-2.53
 Lockwood,-4.96,-2.50,-2.46
+Versailles,-4.96,-2.43,-2.53
 Caruthersville with Hayti,-5.00,-3.04,-1.96
 Pleasant Hope,-5.06,-3.03,-2.03
-Gilman City with North Daviess,-5.08,-1.89,-3.18
 Jasper,-5.08,-2.82,-2.25
+Gilman City with North Daviess,-5.08,-1.89,-3.18
 Green Ridge with La Monte,-5.09,-0.72,-4.38
 Senath-Hornersville,-5.13,-3.72,-1.41
 Oak Ridge,-5.19,-3.37,-1.82
@@ -341,9 +341,9 @@ Hermann,-5.74,-3.54,-2.20
 Marionville,-5.79,-3.53,-2.27
 Salem,-5.81,-2.57,-3.24
 New Heights Christian,-5.84,-2.00,-3.84
-Twin Rivers,-5.85,-3.90,-1.96
 Monroe City,-5.85,-2.11,-3.75
 Jamestown,-5.85,-3.52,-2.34
+Twin Rivers,-5.85,-3.90,-1.96
 Parkway North,-5.89,-1.92,-3.96
 Northeast Nodaway with Worth County,-5.91,-2.13,-3.78
 Concordia,-6.06,-2.52,-3.55
@@ -456,8 +456,8 @@ Winona,-15.60,-5.84,-9.76
 Drexel,-15.76,-8.31,-7.46
 Madison,-16.05,-7.00,-9.05
 Miami (Amoret),-16.39,-9.97,-6.42
-Chadwick,-16.95,-7.91,-9.04
 Northeast (Kansas City),-16.95,-6.01,-10.94
+Chadwick,-16.95,-7.91,-9.04
 Osceola,-17.12,-7.01,-10.11
 Gateway with Soldan International Studies,-17.21,-6.52,-10.68
 Laquey,-17.45,-5.25,-12.20
