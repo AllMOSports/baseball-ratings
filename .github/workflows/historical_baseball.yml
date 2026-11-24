@@ -1,0 +1,48 @@
+name: Historical Baseball Ratings
+
+on:
+  workflow_dispatch:
+    inputs:
+      seasons:
+        description: "Spring year(s), space-separated (e.g. 2013 or 2013 2014). Two at most per run is kindest."
+        required: true
+        default: "2013"
+
+permissions:
+  contents: write
+
+# Never let two backfill runs in this repo hit MSHSAA at the same time
+concurrency:
+  group: historical-scrape
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run historical ratings
+        run: python ratings_historical.py --sport baseball ${{ inputs.seasons }}
+
+      # Runs even if the scrape stops early, so cached dates are never fetched twice
+      - name: Commit and push results
+        if: always()
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add seasons/
+          git diff --staged --quiet || git commit -m "Historical Baseball ratings: ${{ inputs.seasons }}"
+          git pull --rebase
+          git push
