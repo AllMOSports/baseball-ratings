@@ -64,7 +64,7 @@ BACKOFF_BASE         = 60     # seconds; doubles each retry (60, 120, 240)
 MAX_CONSECUTIVE_FAIL = 3      # stop the run after this many dates fail in a row
 USER_AGENT = (
     "AllMOSports-HistoricalRatings/1.0 "
-    "(+https://allmosports.com; contact: CHANGE-ME@allmosports.com)"
+    "(+https://allmosports.com; contact: allmosports63775@gmail.com)"
 )
 
 SEASON_START_MMDD = (3, 1)
