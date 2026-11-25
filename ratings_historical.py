@@ -405,7 +405,14 @@ def run_season(season, out_root):
         print("  No games found, so no ratings written. (Spring 2020 was canceled, so 2020 should be empty.)")
         return complete
 
-    classifications = load_classifications(os.path.join(out_dir, "classifications.json"))
+    # Looks for seasons/classifications_<year>.json (flat, easy to upload),
+    # falling back to the older seasons/<year>/classifications.json.
+    class_path = os.path.join(out_root, f"classifications_{season}.json")
+    if not os.path.exists(class_path):
+        class_path = os.path.join(out_dir, "classifications.json")
+    classifications = load_classifications(class_path)
+    if classifications:
+        print(f"  Classifications: {class_path} ({len(classifications)} schools)")
     if classifications:
         # Same rule as the nightly scripts: only games where both schools are in
         # that season's district list. Applied after the cache, so the raw games
@@ -413,7 +420,7 @@ def run_season(season, out_root):
         scraped_names = {t for g in all_games for t in (g[1], g[3])}
         unmatched = sorted(scraped_names - set(classifications))
         if unmatched:
-            print(f"  {len(unmatched)} scoreboard names not in this season's classifications.json "
+            print(f"  {len(unmatched)} scoreboard names not in classifications_{season}.json "
                   f"(their games are left out):")
             for t in unmatched:
                 print(f"    - {t}")
@@ -422,7 +429,7 @@ def run_season(season, out_root):
         all_games = [g for g in all_games if g[1] in classifications and g[3] in classifications]
         print(f"  Using {len(all_games)} games between listed schools")
     else:
-        print("  No classifications.json for this season, so no team filter or per-class files.")
+        print(f"  No classifications_{season}.json in {out_root}/, so no team filter or per-class files.")
     if not all_games:
         print("  No games left after filtering, so no ratings written.")
         return complete
