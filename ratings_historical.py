@@ -64,7 +64,7 @@ BACKOFF_BASE         = 60     # seconds; doubles each retry (60, 120, 240)
 MAX_CONSECUTIVE_FAIL = 3      # stop the run after this many dates fail in a row
 USER_AGENT = (
     "AllMOSports-HistoricalRatings/1.0 "
-    "(+https://allmosports.com; contact: allmosports63775@gmail.com)"
+    "(+https://allmosports.com; contact: CHANGE-ME@allmosports.com)"
 )
 
 SEASON_START_MMDD = (3, 1)
@@ -344,6 +344,52 @@ def save_outputs(season, out_dir, all_games, off_rating, def_rating, ovr_rating,
         print(f"    {e['ovr_rank']}. {e['school']} | OVR {e['ovr_rating']:+.2f} "
               f"| OFF {e['off_rating']:+.2f} | DEF {e['def_rating']:+.2f}")
 
+    if classifications:
+        save_class_outputs(season, out_dir, off_rating, def_rating, ovr_rating,
+                           league_avg, classifications, complete)
+
+
+def save_class_outputs(season, out_dir, off_rating, def_rating, ovr_rating,
+                       league_avg, classifications, complete):
+    """Per-class files, same layout as the nightly scripts: ratings_classN.json / .csv.
+    The classes come from that season's file, so 5-class and 6-class years both work."""
+    classes = sorted({c["classification"] for c in classifications.values()})
+    for class_num in classes:
+        class_teams = [t for t in ovr_rating if classifications.get(t, {}).get("classification") == class_num]
+        if not class_teams:
+            continue
+        ranked   = sorted(class_teams, key=lambda t: ovr_rating[t], reverse=True)
+        off_rank = {t: i + 1 for i, t in enumerate(sorted(class_teams, key=lambda t: off_rating[t], reverse=True))}
+        def_rank = {t: i + 1 for i, t in enumerate(sorted(class_teams, key=lambda t: def_rating[t], reverse=True))}
+        output = {
+            "sport":          SPORT["name"],
+            "season":         season,
+            "school_year":    f"{season - 1}-{season}",
+            "last_updated":   datetime.now(ZoneInfo("America/Chicago")).strftime("%B %d, %Y at %I:%M %p"),
+            "complete":       complete,
+            "league_average": round(league_avg, 2),
+            "classification": class_num,
+            "teams": [{
+                "ovr_rank":       i + 1,
+                "school":         t,
+                "classification": class_num,
+                "district":       classifications[t]["district"],
+                "ovr_rating":     ovr_rating[t],
+                "off_rating":     round(off_rating[t], 2),
+                "off_rank":       off_rank[t],
+                "def_rating":     round(def_rating[t], 2),
+                "def_rank":       def_rank[t],
+            } for i, t in enumerate(ranked)],
+        }
+        with open(os.path.join(out_dir, f"ratings_class{class_num}.json"), "w") as f:
+            json.dump(output, f, indent=2)
+        with open(os.path.join(out_dir, f"ratings_class{class_num}.csv"), "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow(["Team", "OVR Rating", "OFF Rating", "DEF Rating"])
+            for t in ranked:
+                w.writerow([t, f"{ovr_rating[t]:.2f}", f"{off_rating[t]:.2f}", f"{def_rating[t]:.2f}"])
+        print(f"  Class {class_num}: {len(ranked)} teams, top: {ranked[0]} ({ovr_rating[ranked[0]]:+.2f})")
+
 
 def run_season(season, out_root):
     out_dir = os.path.join(out_root, str(season))
@@ -360,6 +406,27 @@ def run_season(season, out_root):
         return complete
 
     classifications = load_classifications(os.path.join(out_dir, "classifications.json"))
+    if classifications:
+        # Same rule as the nightly scripts: only games where both schools are in
+        # that season's district list. Applied after the cache, so the raw games
+        # are kept and the list can be fixed later without re-scraping.
+        scraped_names = {t for g in all_games for t in (g[1], g[3])}
+        unmatched = sorted(scraped_names - set(classifications))
+        if unmatched:
+            print(f"  {len(unmatched)} scoreboard names not in this season's classifications.json "
+                  f"(their games are left out):")
+            for t in unmatched:
+                print(f"    - {t}")
+            with open(os.path.join(out_dir, "unmatched_teams.txt"), "w") as f:
+                f.write("\n".join(unmatched) + "\n")
+        all_games = [g for g in all_games if g[1] in classifications and g[3] in classifications]
+        print(f"  Using {len(all_games)} games between listed schools")
+    else:
+        print("  No classifications.json for this season, so no team filter or per-class files.")
+    if not all_games:
+        print("  No games left after filtering, so no ratings written.")
+        return complete
+
     off_r, def_r, ovr_r, avg = calculate_ratings(all_games)
     save_outputs(season, out_dir, all_games, off_r, def_r, ovr_r, avg, classifications, complete)
     return complete
