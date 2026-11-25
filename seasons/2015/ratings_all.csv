@@ -1,0 +1,474 @@
+Team,OVR Rating,OFF Rating,DEF Rating
+Vianney,12.86,5.84,7.02
+Rock Bridge,12.48,6.32,6.16
+De Smet Jesuit,12.34,5.30,7.04
+Christian Brothers College,12.03,5.51,6.52
+Kickapoo,10.88,5.47,5.42
+Parkway South,10.86,5.01,5.85
+Rockhurst,10.75,5.20,5.55
+Notre Dame (Cape Girardeau),10.66,4.51,6.15
+Staley,10.59,5.23,5.36
+Francis Howell Central,10.59,5.17,5.42
+Francis Howell North,10.56,5.77,4.80
+Ft. Zumwalt West,10.43,5.47,4.96
+Boonville,10.43,4.56,5.88
+Westminster Christian Academy,10.38,3.36,7.03
+Blue Springs South,10.03,4.73,5.31
+Liberty,9.72,5.22,4.50
+Liberty North,9.71,3.59,6.12
+Eureka,9.46,3.41,6.05
+Marquette,9.40,3.94,5.46
+Webb City,9.37,3.42,5.95
+Francis Howell,9.25,4.07,5.18
+Kirksville,9.17,4.46,4.71
+Ozark,9.08,4.66,4.42
+Lee's Summit West,8.97,4.16,4.81
+Timberland,8.97,3.03,5.94
+Carl Junction,8.86,4.17,4.69
+Lafayette (Wildwood),8.73,5.59,3.14
+Chaminade College Prep,8.56,4.23,4.33
+Holt,8.49,3.52,4.97
+Ft. Zumwalt South,8.48,4.56,3.92
+Raymore-Peculiar,8.47,2.77,5.70
+Seckman,8.32,3.65,4.67
+Kirkwood,8.32,4.22,4.10
+Logan-Rogersville,8.21,4.25,3.96
+Park Hill South,7.98,3.94,4.04
+SLUH,7.92,2.90,5.02
+Valle Catholic,7.87,3.55,4.32
+Forsyth,7.86,4.65,3.21
+Oakville,7.77,3.84,3.93
+Branson,7.75,3.23,4.52
+Nixa,7.74,2.24,5.49
+Fatima,7.66,2.93,4.72
+Lee's Summit,7.57,3.20,4.37
+Ft. Zumwalt North,7.53,4.10,3.43
+Hazelwood West,7.49,4.34,3.16
+Jackson,7.48,2.21,5.28
+Republic,7.36,2.02,5.35
+Mexico,7.34,2.53,4.82
+Poplar Bluff,7.32,1.67,5.65
+Monett,7.30,3.60,3.71
+Helias Catholic,7.26,2.40,4.86
+St. Dominic,7.20,4.15,3.05
+Lindbergh,7.13,3.23,3.91
+Fox,7.09,1.93,5.17
+Jefferson City,7.08,2.34,4.74
+Fort Osage,6.98,4.60,2.38
+Lutheran South,6.94,3.05,3.88
+Ft. Zumwalt East,6.91,3.13,3.78
+Priory,6.77,3.43,3.34
+Pattonville,6.76,2.97,3.78
+Mountain Grove,6.74,2.60,4.14
+Rolla,6.72,3.03,3.69
+Willard,6.63,2.91,3.72
+Lee's Summit North,6.61,2.84,3.77
+Farmington,6.57,3.43,3.14
+Smithville,6.48,3.64,2.84
+Lebanon,6.37,2.57,3.80
+Smith-Cotton,6.27,3.17,3.10
+Neosho,6.18,2.72,3.47
+Glendale,6.15,1.94,4.21
+Strafford,6.15,3.72,2.43
+Blue Springs,6.13,2.73,3.40
+Festus,6.04,2.98,3.07
+Hickman,5.93,2.89,3.03
+Bernie,5.80,1.92,3.87
+Kearney,5.78,2.80,2.97
+Conway,5.73,1.92,3.81
+Truman,5.70,2.20,3.51
+Pacific,5.62,2.05,3.57
+Washington,5.60,1.66,3.93
+Oak Grove,5.60,2.54,3.06
+Grain Valley,5.47,3.70,1.76
+Potosi,5.29,2.59,2.70
+Bolivar,5.27,1.53,3.74
+Platte County,5.25,0.68,4.57
+Dixon,5.14,1.73,3.40
+Carthage,5.09,3.13,1.96
+Greenville,5.09,2.27,2.82
+Lamar,5.08,2.12,2.96
+Rockwood Summit,5.04,2.17,2.87
+St. Charles West,5.00,1.91,3.09
+East Carter,5.00,3.15,1.85
+Clinton,4.97,1.66,3.31
+Parkway North,4.96,2.31,2.65
+Sikeston,4.95,3.06,1.89
+Troy Buchanan,4.89,2.65,2.24
+Parkway Central,4.87,1.48,3.38
+MICDS,4.84,3.34,1.50
+Mt. Vernon,4.83,1.08,3.74
+Hillcrest,4.79,1.26,3.53
+Perryville,4.73,0.87,3.86
+Ladue Horton Watkins,4.71,2.40,2.31
+Northwest (Cedar Hill),4.69,2.29,2.40
+St. Francis Borgia,4.65,1.55,3.11
+Stockton,4.64,0.78,3.86
+Linn,4.62,1.87,2.76
+West Plains,4.58,0.83,3.75
+Malden,4.56,2.71,1.86
+Joplin,4.50,1.23,3.27
+Southern Boone,4.46,1.72,2.74
+Hillsboro,4.43,1.97,2.46
+John Burroughs,4.43,1.32,3.11
+Windsor (Imperial),4.38,1.27,3.11
+Fulton,4.36,2.33,2.04
+Licking,4.34,0.97,3.37
+Central (Cape Girardeau),4.32,-0.33,4.65
+Marshfield,4.31,1.39,2.92
+South Callaway,4.29,0.98,3.30
+Aurora,4.28,1.02,3.26
+Holden,4.27,2.06,2.21
+Harrisonville,4.24,1.68,2.56
+Cassville,4.23,1.70,2.54
+St. Pius X (Festus),4.21,1.72,2.49
+Central (St. Joseph),4.21,2.07,2.13
+Warsaw,4.21,1.64,2.57
+Clayton,4.13,-0.04,4.17
+West County,4.12,2.66,1.46
+DeSoto,4.09,0.59,3.50
+Crocker,3.94,2.09,1.86
+Lutheran St. Charles,3.94,2.01,1.92
+Blair Oaks,3.90,0.68,3.23
+St. Mary's South Side,3.77,1.78,1.99
+Mehlville,3.73,2.02,1.71
+Odessa,3.67,1.44,2.23
+Warrensburg,3.67,1.99,1.68
+Sullivan,3.67,2.16,1.50
+Ste. Genevieve,3.65,0.97,2.67
+Bowling Green,3.52,2.14,1.38
+Plato,3.51,1.38,2.14
+West Platte,3.46,0.80,2.66
+Hollister,3.46,1.56,1.90
+Cooter,3.44,0.44,3.00
+Parkview,3.44,2.58,0.86
+Father Tolton,3.37,2.35,1.01
+Warrenton,3.33,1.64,1.70
+Grandview,3.24,1.62,1.62
+Parkway West,3.23,2.15,1.08
+Pleasant Hill,3.23,0.92,2.31
+Salisbury,3.14,1.51,1.64
+Webster Groves,3.11,1.42,1.69
+Kennett,3.11,2.45,0.66
+Hazelwood Central,3.10,0.79,2.31
+Lawson,3.03,2.33,0.70
+Affton,3.02,2.73,0.29
+St. Charles,2.92,0.43,2.49
+Wright City,2.87,1.67,1.20
+Ava,2.82,2.37,0.45
+Hartville,2.66,0.16,2.50
+Park Hill,2.65,0.47,2.18
+Camdenton,2.59,0.64,1.95
+Savannah,2.58,0.73,1.84
+Sturgeon,2.56,1.15,1.40
+Raytown,2.55,1.53,1.02
+Central (Park Hills),2.55,0.40,2.15
+New Bloomfield,2.50,0.95,1.55
+Waynesville,2.39,1.07,1.32
+Oran,2.38,1.15,1.23
+Miller,2.35,0.31,2.04
+Union,2.23,-0.36,2.59
+Portageville,2.18,0.48,1.70
+Scott City,2.18,1.24,0.94
+O'Hara,2.13,1.47,0.65
+Belton,2.12,-0.34,2.46
+Clearwater,2.02,0.55,1.46
+Oak Park,2.01,1.12,0.89
+Summit Christian Academy,1.99,0.64,1.36
+Marshall,1.97,0.45,1.52
+Valley Park,1.95,0.83,1.12
+Bell City,1.92,-0.41,2.33
+Springfield Catholic,1.91,0.81,1.10
+Reeds Spring,1.86,0.36,1.49
+Fair Grove,1.81,-0.17,1.97
+McCluer North,1.77,0.02,1.74
+McDonald County,1.73,-0.77,2.49
+Winnetonka,1.63,1.48,0.15
+Chillicothe,1.62,-0.59,2.20
+Marionville,1.59,0.41,1.18
+Canton,1.57,2.29,-0.71
+Carrollton,1.53,-0.52,2.05
+Veritas Christian Academy,1.51,1.98,-0.48
+Central (New Madrid County),1.49,1.25,0.23
+Macon,1.47,0.31,1.15
+Sacred Heart,1.45,0.87,0.58
+New Franklin,1.44,1.40,0.04
+Scotland County,1.37,0.92,0.46
+Crystal City,1.27,-0.06,1.33
+Moberly,1.25,0.04,1.21
+Mansfield,1.24,1.10,0.13
+Owensville,1.20,0.50,0.70
+St. James,1.19,1.54,-0.35
+Nevada,1.18,0.22,0.96
+Palmyra,1.03,-1.33,2.36
+Norwood,0.99,-0.28,1.27
+Westran,0.96,0.25,0.71
+Salem,0.89,0.05,0.85
+Hallsville,0.77,1.58,-0.81
+Vienna,0.71,0.92,-0.21
+Dexter,0.71,1.06,-0.35
+St. Vincent,0.67,0.39,0.28
+Spokane,0.65,0.16,0.49
+Tipton,0.62,-0.77,1.39
+Blue Eye,0.60,-1.63,2.23
+Seneca,0.59,-0.20,0.80
+Eldon,0.57,0.27,0.30
+Senath-Hornersville,0.48,-1.71,2.19
+Fredericktown,0.34,-0.32,0.66
+Houston,0.34,0.30,0.04
+Bishop DuBourg,0.34,-0.41,0.74
+Maryville,0.31,0.52,-0.21
+Galena,0.26,-0.66,0.91
+Jefferson (Festus),0.24,-0.16,0.40
+Duchesne,0.22,0.56,-0.34
+Benton,0.22,-1.35,1.57
+Pierce City,0.16,-0.17,0.33
+William Chrisman,0.14,-0.69,0.84
+Clopton,0.13,0.08,0.04
+North Callaway,0.11,0.34,-0.23
+Neelyville,0.09,0.47,-0.38
+South Pemiscot,0.03,-0.44,0.47
+Kelly,-0.01,-0.67,0.66
+Ash Grove,-0.12,0.21,-0.33
+Iberia,-0.12,-0.61,0.49
+Crane,-0.15,-0.05,-0.10
+Lutheran North,-0.17,0.62,-0.79
+Community,-0.28,0.43,-0.71
+Billings,-0.35,0.04,-0.39
+Eugene,-0.37,-1.26,0.88
+Liberty (Wentzville),-0.49,0.17,-0.66
+Doniphan,-0.63,-0.26,-0.37
+Pilot Grove,-0.70,0.09,-0.79
+Hermann,-0.70,-0.40,-0.30
+Bourbon,-0.75,-0.81,0.07
+Walnut Grove,-0.78,-0.85,0.07
+Knob Noster,-0.82,-1.38,0.56
+East Buchanan,-0.87,-0.99,0.12
+St. Pius X (Kansas City),-0.94,-0.59,-0.35
+Bakersfield,-0.99,-1.44,0.44
+Centralia,-1.04,0.30,-1.33
+Principia,-1.06,-1.07,0.01
+University City,-1.09,0.47,-1.56
+Hannibal,-1.12,-0.80,-0.32
+Clever,-1.24,-1.34,0.10
+Campbell,-1.36,0.25,-1.61
+El Dorado Springs,-1.39,-0.13,-1.26
+Steelville,-1.49,1.49,-2.98
+Mid-Buchanan,-1.52,0.38,-1.90
+East Newton,-1.52,-0.96,-0.57
+Maplewood-Richmond Hts.,-1.55,1.38,-2.93
+Louisiana,-1.56,-1.15,-0.40
+Ritenour,-1.61,-0.17,-1.44
+Lafayette (St. Joseph),-1.66,-1.71,0.05
+California,-1.68,-0.71,-0.97
+Gainesville,-1.75,-1.78,0.03
+Winfield,-1.75,-0.95,-0.80
+North County,-1.76,-1.16,-0.60
+Excelsior Springs,-1.84,-1.31,-0.53
+Skyline,-1.87,-1.52,-0.34
+East Prairie,-1.93,-1.91,-0.01
+Lafayette County,-1.94,-0.68,-1.27
+Caruthersville,-1.97,0.21,-2.18
+McAuley Catholic,-2.01,-0.64,-1.37
+Brentwood,-2.05,-0.67,-1.38
+Purdy,-2.06,-0.37,-1.70
+St. Clair,-2.14,-0.73,-1.40
+Arcadia Valley,-2.15,-1.27,-0.88
+Bloomfield,-2.17,-1.93,-0.24
+Barat Academy,-2.20,-1.26,-0.94
+Saxony Lutheran,-2.24,-0.73,-1.52
+Atlanta,-2.25,-2.19,-0.05
+Jamestown,-2.28,-2.96,0.69
+Stoutland,-2.30,-1.48,-0.82
+Bishop LeBlond,-2.31,-0.54,-1.76
+Liberty (Mountain View),-2.32,-1.00,-1.32
+Raytown South,-2.34,0.97,-3.31
+Rich Hill,-2.35,-1.34,-1.01
+Orchard Farm,-2.39,-0.70,-1.69
+Crossroads College Preparatory,-2.44,0.24,-2.68
+Marion C. Early,-2.48,-1.06,-1.42
+Dadeville,-2.51,-1.13,-1.38
+Hurley,-2.60,-1.94,-0.65
+Russellville,-2.66,-0.90,-1.77
+Paris,-2.73,0.94,-3.66
+Green City,-2.75,-0.87,-1.89
+Belle,-2.78,-2.23,-0.55
+Seymour,-2.78,0.17,-2.95
+Windsor,-2.84,-1.34,-1.50
+Lakeland,-2.98,-1.05,-1.94
+Cuba,-2.99,-1.12,-1.88
+North Kansas City,-3.12,-0.50,-2.62
+Greenfield,-3.16,-0.66,-2.50
+St. Paul Lutheran (Concordia),-3.21,-1.69,-1.52
+Twin Rivers,-3.22,-2.09,-1.13
+Harrisburg,-3.22,-1.44,-1.79
+Newburg,-3.22,-1.14,-2.08
+Schuyler County,-3.23,0.75,-3.98
+Elsberry,-3.24,-1.56,-1.69
+Pembroke Hill,-3.27,-2.14,-1.13
+Woodland,-3.29,-0.88,-2.41
+Richmond,-3.31,-1.56,-1.76
+Lone Jack,-3.32,-0.61,-2.71
+Calvary Lutheran,-3.43,-2.58,-0.85
+New Heights Christian,-3.48,-3.48,0.01
+Cabool,-3.51,-1.60,-1.91
+Puxico,-3.58,-1.92,-1.66
+Van Horn,-3.63,-2.77,-0.86
+Santa Fe,-3.87,-2.27,-1.59
+Barstow,-3.89,-0.97,-2.92
+Chaffee,-3.96,-2.54,-1.42
+New Haven,-4.01,-1.10,-2.92
+Holcomb,-4.04,-1.43,-2.61
+Monroe City,-4.05,-1.75,-2.29
+Diamond,-4.12,-1.00,-3.12
+Southwest (Washburn),-4.23,-2.85,-1.37
+Pleasant Hope,-4.27,-1.85,-2.42
+Advance,-4.30,-3.67,-0.62
+Silex,-4.32,-1.33,-2.99
+Central (Springfield),-4.38,-2.48,-1.90
+Alton,-4.43,-3.30,-1.14
+Meadow Heights,-4.46,-2.55,-1.91
+Dora,-4.58,-3.96,-0.62
+Archie,-4.63,-2.28,-2.35
+McCluer,-4.65,-1.44,-3.21
+Butler,-4.72,-4.49,-0.23
+Fordland,-4.72,-1.57,-3.15
+Scott County Central,-4.76,-0.81,-3.94
+Wellington-Napoleon,-4.77,-2.87,-1.90
+Lincoln,-4.84,-2.37,-2.47
+Whitfield,-4.85,-2.29,-2.56
+Sherwood,-4.87,-1.34,-3.53
+Novinger,-4.89,-1.94,-2.95
+Cameron,-4.90,-1.42,-3.47
+Versailles,-4.95,-1.89,-3.06
+Trinity Catholic,-5.06,-2.50,-2.56
+La Plata,-5.23,-4.49,-0.75
+Thayer,-5.28,-2.66,-2.63
+John F. Kennedy,-5.31,-2.00,-3.31
+Knox County,-5.32,-2.84,-2.48
+St. Elizabeth,-5.44,-2.69,-2.74
+Tuscumbia,-5.44,-3.67,-1.77
+Buffalo,-5.57,-2.35,-3.22
+Kingston,-5.58,-3.21,-2.37
+Hermitage,-5.72,-3.37,-2.35
+Bevier,-5.76,-1.30,-4.46
+Concordia,-5.85,-3.42,-2.43
+Northeast (Cairo),-5.91,-3.17,-2.74
+Gideon,-5.91,-3.03,-2.88
+Weaubleau,-5.92,-2.94,-2.97
+Crest Ridge,-6.06,-2.48,-3.58
+Missouri Military Academy,-6.07,-2.88,-3.19
+Center,-6.33,-1.71,-4.62
+Humansville,-6.36,-4.07,-2.29
+Plattsburg,-6.37,-3.03,-3.34
+Osage,-6.40,-1.87,-4.53
+Wheaton,-6.44,-3.38,-3.05
+Herculaneum,-6.60,-2.05,-4.55
+Richland,-6.63,-1.60,-5.03
+Adrian,-6.68,-1.94,-4.74
+Clark County,-6.72,-4.42,-2.30
+Mark Twain,-6.87,-2.79,-4.08
+Bismarck,-6.98,-3.19,-3.79
+Northwest (Hughesville),-7.02,-3.42,-3.60
+Hancock,-7.06,-3.06,-4.01
+Gateway,-7.07,-2.64,-4.42
+Marion County,-7.27,-2.23,-5.04
+Willow Springs,-7.30,-2.08,-5.22
+Lathrop,-7.43,-3.44,-3.99
+Charleston,-7.44,-2.15,-5.29
+Lutheran (Kansas City),-7.55,-3.57,-3.98
+Ruskin,-7.61,-2.35,-5.26
+North Shelby,-7.70,-5.03,-2.67
+Montgomery County,-7.89,-1.73,-6.16
+Eminence,-7.92,-3.48,-4.44
+Highland,-7.94,-2.45,-5.49
+Macks Creek,-8.07,-3.48,-4.59
+Miller Career Academy,-8.07,-1.21,-6.86
+Lockwood,-8.09,-3.98,-4.12
+Linn County,-8.17,-4.90,-3.27
+Exeter,-8.66,-4.45,-4.22
+Viburnum,-8.79,-4.40,-4.39
+Lesterville,-9.06,-5.06,-4.00
+Wheatland,-9.12,-4.18,-4.93
+Fayette,-9.13,-4.42,-4.70
+Riverview Gardens,-9.25,-3.34,-5.91
+Jasper,-9.33,-4.58,-4.74
+Cole Camp,-9.58,-4.78,-4.80
+Sarcoxie,-9.61,-3.42,-6.19
+Summersville,-9.67,-3.56,-6.11
+Hayti,-9.69,-4.84,-4.85
+Halfway,-9.78,-4.85,-4.93
+Leopold,-9.99,-4.80,-5.19
+Van Buren,-9.99,-4.79,-5.20
+Winona,-10.07,-3.93,-6.14
+McCluer South-Berkeley,-10.32,-4.33,-5.99
+Hazelwood East,-10.40,-3.33,-7.07
+Bayless,-10.48,-2.94,-7.54
+Smithton,-10.49,-3.16,-7.33
+Ellington,-10.74,-4.08,-6.66
+Madison,-10.82,-5.45,-5.37
+Van-Far,-11.26,-4.00,-7.26
+Northeast Vernon County,-11.37,-4.86,-6.52
+North Platte,-11.57,-3.43,-8.14
+Laquey,-11.69,-3.15,-8.54
+North Pemiscot,-11.70,-3.38,-8.32
+Lincoln College Prep,-11.79,-2.55,-9.24
+Sparta,-11.87,-5.83,-6.04
+Milan,-12.28,-4.37,-7.91
+Sweet Springs,-12.37,-5.65,-6.73
+Bunker,-12.69,-6.26,-6.43
+Oak Ridge,-13.03,-5.26,-7.77
+South Iron,-13.05,-6.63,-6.42
+Metro,-13.23,-6.01,-7.22
+Grandview (Hillsboro),-13.34,-4.97,-8.37
+Naylor,-13.40,-5.48,-7.92
+Sheldon,-13.64,-5.00,-8.65
+Putnam County,-14.20,-3.75,-10.45
+Verona,-14.23,-5.31,-8.93
+Cardinal Ritter,-14.35,-6.23,-8.12
+Osceola,-14.56,-4.81,-9.75
+North Nodaway,-14.57,-9.07,-5.50
+Fair Play,-14.58,-6.95,-7.63
+Wellsville-Middletown,-14.69,-5.17,-9.52
+North Technical,-14.71,-7.00,-7.72
+Valley,-15.01,-6.18,-8.83
+Soldan International Studies,-15.05,-4.06,-10.99
+Keytesville,-15.08,-5.23,-9.85
+Higbee,-15.13,-8.19,-6.94
+Bradleyville,-15.68,-7.84,-7.85
+Bunceton,-15.71,-5.93,-9.78
+Lift for Life Academy Charter,-16.16,-6.18,-9.98
+Otterville,-17.11,-8.04,-9.07
+Everton,-17.50,-7.19,-10.30
+Glasgow,-17.68,-6.87,-10.81
+Jennings,-17.78,-6.78,-11.00
+Ballard,-17.90,-8.50,-9.40
+Southland,-17.96,-8.12,-9.84
+Northwestern (Mendon),-18.13,-11.87,-6.26
+Stover,-18.13,-6.87,-11.26
+Roosevelt,-18.42,-9.24,-9.17
+Bronaugh,-18.57,-9.11,-9.46
+South Shelby,-19.16,-5.77,-13.38
+Normandy Collaborative,-19.33,-7.36,-11.96
+La Monte,-19.38,-6.71,-12.67
+Southeast,-19.43,-10.11,-9.32
+Kingsville,-19.66,-7.00,-12.66
+Northeast (Kansas City),-19.88,-8.28,-11.60
+Koshkonong,-20.42,-7.82,-12.60
+Carnahan,-20.67,-8.03,-12.64
+Cleveland NJROTC,-20.69,-8.08,-12.61
+Clarkton,-21.04,-9.02,-12.02
+Slater,-21.15,-6.45,-14.70
+Cristo Rey,-21.23,-6.75,-14.48
+Richland (Essex),-21.23,-5.78,-15.45
+Miami (Amoret),-21.25,-8.89,-12.36
+Niangua,-21.35,-8.51,-12.84
+Guadalupe Centers Charter,-22.37,-11.68,-10.69
+Climax Springs,-22.72,-9.06,-13.67
+East (Kansas City),-22.78,-11.91,-10.87
+Vashon,-22.95,-7.81,-15.14
+Brunswick,-22.96,-9.78,-13.19
+Central (Kansas City),-23.02,-10.26,-12.75
+Delta,-23.05,-8.34,-14.70
+Transportation and Law,-26.18,-11.89,-14.29
+College Preparatory,-29.72,-11.70,-18.02
