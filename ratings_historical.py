@@ -52,7 +52,15 @@ SPORT = SPORTS["baseball"]   # set from --sport in main()
 # Before scraping a whole season, check these mid-season dates. If none of
 # them has a single game (sport not sanctioned yet, season canceled, etc.),
 # the season is skipped after a handful of requests instead of ~107.
-PROBE_DATES_MMDD = [(4, 8), (4, 15), (4, 22), (4, 29)]
+# Probes are the Tuesdays and Thursdays of two mid-April weeks (busy game
+# days), worked out per year so they never land on a weekend.
+
+
+def probe_dates(season):
+    first_tue = date(season, 4, 8)
+    first_tue += timedelta(days=(1 - first_tue.weekday()) % 7)   # Tuesday on/after Apr 8
+    return [first_tue, first_tue + timedelta(days=2),
+            first_tue + timedelta(days=7), first_tue + timedelta(days=9)]
 ITERATIONS    = 1000
 LEARNING_RATE = 0.1
 
@@ -181,7 +189,7 @@ def scrape_season(season, out_dir, start, end):
     session.headers.update({"User-Agent": USER_AGENT, "Accept": "text/html"})
 
     # Probe a few mid-season dates first (cached like any other date)
-    probes = [date(season, m, dd) for m, dd in PROBE_DATES_MMDD if date(season, m, dd) <= end]
+    probes = [d for d in probe_dates(season) if d <= end]
     for i, d in enumerate(p for p in probes if p.isoformat() not in cache):
         if i > 0:
             time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
